@@ -2,4 +2,7 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="Debugger.PopFrame">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
 </keymap>
