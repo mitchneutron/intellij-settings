@@ -5,7 +5,7 @@
     <entry key="updates.lastchecked" value="1585176635214" />
     <node name="designer">
       <entry key="chooser.beanclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="newcontainer.layoutmanager" value="net.miginfocom.swing.MigLayout" />
+      <entry key="newcontainer.layoutmanager" value="java.awt.GridBagLayout" />
       <entry key="newform.superclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
       <entry key="newform.superclass" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
       <entry key="newform.toolkit" value="Swing" />
@@ -13,9 +13,12 @@
       <entry key="chooser.addtopalette" value="false" />
       <entry key="chooser.addtocategoryid" value="custom" />
       <entry key="chooser.beanclass.history3" value="com.fbi.gui.table.FBTable" />
-      <entry key="chooser.beanclass.history4" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history5" value="com.fbi.gui.button.FBButton" />
+      <entry key="chooser.beanclass.history4" value="com.fbi.gui.button.FBButton" />
+      <entry key="chooser.beanclass.history5" value="com.fbi.gui.textfield.FBTextFieldInt" />
       <entry key="properties.expanded.events" value="true" />
+      <entry key="chooser.beanclass.history6" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="stringeditor.size" value="676, 240" />
+      <entry key="chooser.beanclass.history7" value="javax.swing.JPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection-1592207913" value="table" />
