@@ -16,9 +16,10 @@
       <entry key="chooser.beanclass.history4" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history5" value="com.fbi.gui.textfield.FBTextFieldInt" />
       <entry key="properties.expanded.events" value="true" />
-      <entry key="chooser.beanclass.history6" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history6" value="com.fbi.gui.textfield.FBLabel" />
       <entry key="stringeditor.size" value="676, 240" />
-      <entry key="chooser.beanclass.history7" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history7" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history8" value="com.fbi.gui.textfield.FBTextFieldQuantity" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection-1592207913" value="table" />
