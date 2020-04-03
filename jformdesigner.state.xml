@@ -15,13 +15,13 @@
       <entry key="chooser.beanclass.history3" value="com.fbi.gui.table.FBTable" />
       <entry key="chooser.beanclass.history4" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history5" value="com.fbi.gui.textfield.FBTextFieldInt" />
-      <entry key="properties.expanded.events" value="true" />
       <entry key="chooser.beanclass.history6" value="javax.swing.JPanel" />
       <entry key="stringeditor.size" value="676, 240" />
       <entry key="chooser.beanclass.history7" value="com.fbi.gui.textfield.FBTextFieldQuantity" />
       <entry key="chooser.beanclass.history8" value="com.fbi.gui.textfield.FBLabel" />
       <entry key="chooser.beanclass.history9" value="com.fbi.plugins.sps.ui.components.table.TablePanel" />
       <entry key="properties.expanded.class" value="true" />
+      <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection-1592207913" value="table" />
