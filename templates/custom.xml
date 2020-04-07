@@ -1,5 +1,12 @@
 <templateSet group="custom">
-  <template name="todo" value="//TODO $DATE$ $NOTE$" toReformat="false" toShortenFQNames="true">
+  <template name="todo" value="//TODO: $DATE$ $NOTE$" toReformat="false" toShortenFQNames="false">
+    <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="NOTE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="fixme" value="//FIXME: $DATE$ $NOTE$" toReformat="false" toShortenFQNames="false">
     <variable name="DATE" expression="date()" defaultValue="" alwaysStopAt="false" />
     <variable name="NOTE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
