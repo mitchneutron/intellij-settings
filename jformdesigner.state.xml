@@ -27,9 +27,10 @@
       <entry key="chooser.beanclass.history11" value="com.fbi.gui.textfield.FBTextFieldMoney" />
       <entry key="chooser.beanclass.history12" value="com.fbi.plugins.shipexpress.ui.miscpanel.ratemarkup.RateMarkupPanel" />
       <entry key="properties.expanded.codegen" value="true" />
-      <entry key="chooser.beanclass.history13" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history13" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
       <entry key="addevent.passparams" value="false" />
       <entry key="properties.expanded.events" value="true" />
+      <entry key="chooser.beanclass.history14" value="com.fbi.gui.textfield.FBLabel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection-1592207913" value="table" />
