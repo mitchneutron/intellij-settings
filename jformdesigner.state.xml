@@ -31,6 +31,7 @@
       <entry key="addevent.passparams" value="false" />
       <entry key="properties.expanded.events" value="true" />
       <entry key="chooser.beanclass.history14" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history15" value="com.fbi.plugins.ghx.ui.settings.HeaderSettingsPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection-1592207913" value="table" />
@@ -44,7 +45,6 @@
         <entry key="selection-1179274549" value="pnlRateMarkup" />
         <entry key="selection-1238903648" value="chkFlat" />
         <entry key="selection2134775269" value="receiveInventoryTaskPanel" />
-        <entry key="selection1670628396" value="purchaseOrderTaskPanel,receiveInventoryTaskPanel,inventoryExportTaskPanel,tradingPartnerSettingsPanel" />
         <entry key="selection2046831304" value="pnlTabs" />
         <entry key="selection195972952" value="contentPanel2" />
       </node>
