@@ -46,7 +46,10 @@
         <entry key="selection-1238903648" value="chkFlat" />
         <entry key="selection2134775269" value="receiveInventoryTaskPanel" />
         <entry key="selection2046831304" value="pnlTabs" />
-        <entry key="selection195972952" value="contentPanel2" />
+        <entry key="selection195972952" value="this" />
+        <entry key="selection-157594289" value="tblOrderStatusMapper" />
+        <entry key="selection-1472880445" value="pnlOrderSettings,pnlSchedule,pnlCarrierSettings,pnlOrderItemSettings,pnlCustomerSettings,pnlLocationGroupSettings,pnlOrderStatusSettings,pnlTaxSettings,pnlPaymentSettings" />
+        <entry key="selection1317167129" value="tblOrderFieldMapping" />
       </node>
     </node>
   </component>
