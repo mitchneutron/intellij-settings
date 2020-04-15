@@ -34,7 +34,6 @@
       <entry key="chooser.beanclass.history15" value="com.fbi.plugins.ghx.ui.settings.HeaderSettingsPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
-        <entry key="selection-1592207913" value="table" />
         <entry key="selection435401829" value="btnAdd" />
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
         <entry key="selection195188610" value="pnlOrderStatusSettings,pnlLocationGroupSettings,pnlPaymentSettings,pnlCarrierSettings,pnlTaxSettings,pnlOrderSettings,pnlSchedule,pnlCustomerSettings,pnlOrderItemSettings" />
