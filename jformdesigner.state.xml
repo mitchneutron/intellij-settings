@@ -49,6 +49,7 @@
         <entry key="selection-157594289" value="tblOrderStatusMapper" />
         <entry key="selection-1472880445" value="pnlOrderSettings,pnlSchedule,pnlCarrierSettings,pnlOrderItemSettings,pnlCustomerSettings,pnlLocationGroupSettings,pnlOrderStatusSettings,pnlTaxSettings,pnlPaymentSettings" />
         <entry key="selection1317167129" value="tblOrderFieldMapping" />
+        <entry key="selection878992492" value="pnlCarrierTabs" />
       </node>
     </node>
   </component>
