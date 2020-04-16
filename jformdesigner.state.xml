@@ -30,9 +30,10 @@
       <entry key="addevent.passparams" value="false" />
       <entry key="properties.expanded.events" value="true" />
       <entry key="chooser.beanclass.history14" value="com.fbi.plugins.ghx.ui.settings.HeaderSettingsPanel" />
-      <entry key="chooser.beanclass.history15" value="com.fbi.gui.textfield.FBLinkLabel" />
-      <entry key="chooser.beanclass.history16" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history17" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history15" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history16" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history17" value="com.fbi.gui.textfield.FBLinkLabel" />
+      <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
