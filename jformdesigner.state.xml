@@ -41,7 +41,6 @@
         <entry key="selection195188610" value="pnlOrderStatusSettings,pnlLocationGroupSettings,pnlPaymentSettings,pnlCarrierSettings,pnlTaxSettings,pnlOrderSettings,pnlSchedule,pnlCustomerSettings,pnlOrderItemSettings" />
         <entry key="selection2007537815" value="tblItemFieldMap" />
         <entry key="selection2008079436" value="tblLocationGroup" />
-        <entry key="selection2075211240" value="pnlBorder" />
         <entry key="selection-2042283111" value="this" />
         <entry key="selection-1238903648" value="chkFlat" />
         <entry key="selection2134775269" value="receiveInventoryTaskPanel" />
@@ -51,6 +50,7 @@
         <entry key="selection1317167129" value="tblOrderFieldMapping" />
         <entry key="selection878992492" value="pnlCarrierTabs" />
         <entry key="selection2046831304" value="pnlTabs" />
+        <entry key="selection2075211240" value="pnlBorder" />
       </node>
     </node>
   </component>
