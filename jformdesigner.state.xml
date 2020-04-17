@@ -36,6 +36,8 @@
       <entry key="chooser.beanclass.history18" value="com.fbi.gui.textfield.FBLabel" />
       <entry key="chooser.beanclass.history19" value="com.fbi.gui.misc.IconTitleBorderPanel" />
       <entry key="properties.expanded.codegen" value="true" />
+      <entry key="chooser.beanclass.filterenabled" value="false" />
+      <entry key="chooser.beanclass.history20" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -51,7 +53,6 @@
         <entry key="selection1317167129" value="tblOrderFieldMapping" />
         <entry key="selection878992492" value="pnlCarrierTabs" />
         <entry key="selection2075211240" value="pnlBorder" />
-        <entry key="selection195972952" value="this" />
         <entry key="selection2046831304" value="pnlTabs" />
         <entry key="selection388484805" value="iconTitleBorderPanel" />
         <entry key="selection-1028028545" value="pnlSchedule" />
