@@ -34,6 +34,7 @@
       <entry key="chooser.beanclass.history16" value="javax.swing.JLabel" />
       <entry key="chooser.beanclass.history17" value="com.fbi.gui.textfield.FBLinkLabel" />
       <entry key="properties.expanded.category.expert" value="true" />
+      <entry key="chooser.beanclass.history18" value="com.fbi.plugins.ghx.ui.task.OrderImportPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
