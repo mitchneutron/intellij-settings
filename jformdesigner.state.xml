@@ -15,26 +15,27 @@
       <entry key="chooser.beanclass.history3" value="com.fbi.gui.table.FBTable" />
       <entry key="chooser.beanclass.history4" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history5" value="com.fbi.gui.textfield.FBTextFieldInt" />
-      <entry key="chooser.beanclass.history6" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history6" value="com.fbi.gui.textfield.FBTextFieldQuantity" />
       <entry key="stringeditor.size" value="676, 240" />
-      <entry key="chooser.beanclass.history7" value="com.fbi.gui.textfield.FBTextFieldQuantity" />
-      <entry key="chooser.beanclass.history8" value="com.fbi.plugins.sps.ui.components.table.TablePanel" />
-      <entry key="chooser.beanclass.history9" value="javax.swing.JScrollPane" />
+      <entry key="chooser.beanclass.history7" value="com.fbi.plugins.sps.ui.components.table.TablePanel" />
+      <entry key="chooser.beanclass.history8" value="javax.swing.JScrollPane" />
+      <entry key="chooser.beanclass.history9" value="com.fbi.gui.textfield.FBTextFieldPercent" />
       <entry key="properties.expanded.class" value="true" />
-      <entry key="chooser.beanclass.history10" value="com.fbi.gui.textfield.FBTextFieldPercent" />
+      <entry key="chooser.beanclass.history10" value="com.fbi.gui.textfield.FBTextFieldMoney" />
       <entry key="newform.superclass.history2" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history11" value="com.fbi.gui.textfield.FBTextFieldMoney" />
-      <entry key="chooser.beanclass.history12" value="com.fbi.plugins.shipexpress.ui.miscpanel.ratemarkup.RateMarkupPanel" />
-      <entry key="properties.expanded.codegen" value="true" />
-      <entry key="chooser.beanclass.history13" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
+      <entry key="chooser.beanclass.history11" value="com.fbi.plugins.shipexpress.ui.miscpanel.ratemarkup.RateMarkupPanel" />
+      <entry key="chooser.beanclass.history12" value="com.fbi.plugins.ghx.ui.settings.HeaderSettingsPanel" />
+      <entry key="chooser.beanclass.history13" value="javax.swing.JLabel" />
       <entry key="addevent.passparams" value="false" />
       <entry key="properties.expanded.events" value="true" />
-      <entry key="chooser.beanclass.history14" value="com.fbi.plugins.ghx.ui.settings.HeaderSettingsPanel" />
-      <entry key="chooser.beanclass.history15" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history16" value="javax.swing.JLabel" />
-      <entry key="chooser.beanclass.history17" value="com.fbi.gui.textfield.FBLinkLabel" />
+      <entry key="chooser.beanclass.history14" value="com.fbi.gui.textfield.FBLinkLabel" />
+      <entry key="chooser.beanclass.history15" value="com.fbi.plugins.ghx.ui.task.OrderImportPanel" />
+      <entry key="chooser.beanclass.history16" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
+      <entry key="chooser.beanclass.history17" value="javax.swing.JPanel" />
       <entry key="properties.expanded.category.expert" value="true" />
-      <entry key="chooser.beanclass.history18" value="com.fbi.plugins.ghx.ui.task.OrderImportPanel" />
+      <entry key="chooser.beanclass.history18" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history19" value="com.fbi.gui.misc.IconTitleBorderPanel" />
+      <entry key="properties.expanded.codegen" value="true" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -50,8 +51,9 @@
         <entry key="selection1317167129" value="tblOrderFieldMapping" />
         <entry key="selection878992492" value="pnlCarrierTabs" />
         <entry key="selection2075211240" value="pnlBorder" />
-        <entry key="selection2046831304" value="pnlTabs" />
         <entry key="selection195972952" value="this" />
+        <entry key="selection2046831304" value="pnlTabs" />
+        <entry key="selection388484805" value="iconTitleBorderPanel" />
       </node>
     </node>
   </component>
