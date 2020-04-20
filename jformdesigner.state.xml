@@ -27,7 +27,6 @@
       <entry key="chooser.beanclass.history12" value="com.fbi.plugins.ghx.ui.settings.HeaderSettingsPanel" />
       <entry key="chooser.beanclass.history13" value="javax.swing.JLabel" />
       <entry key="addevent.passparams" value="false" />
-      <entry key="properties.expanded.events" value="true" />
       <entry key="chooser.beanclass.history14" value="com.fbi.gui.textfield.FBLinkLabel" />
       <entry key="chooser.beanclass.history15" value="com.fbi.plugins.ghx.ui.task.OrderImportPanel" />
       <entry key="chooser.beanclass.history16" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
@@ -37,8 +36,9 @@
       <entry key="chooser.beanclass.history19" value="com.fbi.gui.misc.IconTitleBorderPanel" />
       <entry key="properties.expanded.codegen" value="true" />
       <entry key="chooser.beanclass.filterenabled" value="false" />
-      <entry key="chooser.beanclass.history20" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
-      <entry key="chooser.beanclass.history21" value="com.fbi.plugins.ghx.ui.components.PasswordPanel" />
+      <entry key="chooser.beanclass.history20" value="com.fbi.plugins.ghx.ui.components.PasswordPanel" />
+      <entry key="chooser.beanclass.history21" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
+      <entry key="properties.expanded.events" value="true" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -58,6 +58,7 @@
         <entry key="selection-1028028545" value="pnlSchedule" />
         <entry key="selection2046831304" value="pnlTabs" />
         <entry key="selection1670628396" value="orderImportPanel1" />
+        <entry key="selection-58463705" value="btnOutDirectoryEdit2" />
       </node>
     </node>
   </component>
