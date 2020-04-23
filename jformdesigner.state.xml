@@ -36,11 +36,11 @@
       <entry key="chooser.beanclass.history19" value="com.fbi.gui.textfield.FBLabel" />
       <entry key="properties.expanded.codegen" value="true" />
       <entry key="chooser.beanclass.filterenabled" value="false" />
-      <entry key="chooser.beanclass.history20" value="javax.swing.JLabel" />
-      <entry key="chooser.beanclass.history21" value="com.fbi.plugins.ghx.ui.settings.ConnectionSettingsPanel" />
+      <entry key="chooser.beanclass.history20" value="com.fbi.plugins.ghx.ui.settings.ConnectionSettingsPanel" />
+      <entry key="chooser.beanclass.history21" value="com.fbi.plugins.ghx.ui.settings.MainSettingsPanel" />
       <entry key="properties.expanded.events" value="true" />
-      <entry key="chooser.beanclass.history22" value="com.fbi.plugins.ghx.ui.settings.MainSettingsPanel" />
-      <entry key="chooser.beanclass.history23" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
+      <entry key="chooser.beanclass.history22" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
+      <entry key="chooser.beanclass.history23" value="javax.swing.JLabel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -57,6 +57,7 @@
         <entry key="selection878992492" value="pnlCarrierTabs" />
         <entry key="selection2046831304" value="pnlTabs" />
         <entry key="selection388484805" value="btnSyncNow" />
+        <entry key="selection-1179274549" value="pnlReferenceFieldPanel" />
       </node>
     </node>
   </component>
