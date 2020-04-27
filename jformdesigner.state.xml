@@ -7,7 +7,7 @@
       <entry key="chooser.beanclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
       <entry key="newcontainer.layoutmanager" value="java.awt.GridBagLayout" />
       <entry key="newform.superclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="newform.superclass" value="javax.swing.JPanel" />
+      <entry key="newform.superclass" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="chooser.beanclass.history2" value="com.fbi.gui.misc.FBTabbedPane" />
       <entry key="chooser.addtopalette" value="false" />
@@ -41,6 +41,8 @@
       <entry key="properties.expanded.events" value="true" />
       <entry key="chooser.beanclass.history22" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
       <entry key="chooser.beanclass.history23" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history24" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
+      <entry key="newform.superclass.history3" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -58,6 +60,7 @@
         <entry key="selection2046831304" value="pnlTabs" />
         <entry key="selection388484805" value="btnSyncNow" />
         <entry key="selection-1179274549" value="pnlReferenceFieldPanel" />
+        <entry key="selection1486645105" value="this" />
       </node>
     </node>
   </component>
