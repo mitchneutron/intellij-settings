@@ -46,6 +46,7 @@
       <entry key="chooser.beanclass.history25" value="com.fbi.gui.misc.IconTitleBorderPanel" />
       <entry key="chooser.beanclass.history26" value="com.fbi.gui.textfield.FBTextField" />
       <entry key="codeditor.size" value="444, 424" />
+      <entry key="chooser.beanclass.history27" value="com.fbi.plugins.sps.ui.task.OrderAckTaskPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -65,8 +66,8 @@
         <entry key="selection-1179274549" value="pnlReferenceFieldPanel" />
         <entry key="selection1486645105" value="this" />
         <entry key="selection-1442613971" value="pnlContent" />
-        <entry key="selection1478603171" value="inventoryExportTaskPanel" />
         <entry key="selection442403283" value="pnlContent" />
+        <entry key="selection1478603171" value="orderAckTaskPanel1" />
       </node>
     </node>
   </component>
