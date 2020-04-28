@@ -37,16 +37,17 @@
       <entry key="properties.expanded.codegen" value="true" />
       <entry key="chooser.beanclass.filterenabled" value="false" />
       <entry key="chooser.beanclass.history20" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
-      <entry key="chooser.beanclass.history21" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history21" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
       <entry key="properties.expanded.events" value="true" />
-      <entry key="chooser.beanclass.history22" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
-      <entry key="chooser.beanclass.history23" value="java.awt.BorderLayout" />
-      <entry key="chooser.beanclass.history24" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history22" value="java.awt.BorderLayout" />
+      <entry key="chooser.beanclass.history23" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history24" value="com.fbi.gui.misc.IconTitleBorderPanel" />
       <entry key="newform.superclass.history3" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
-      <entry key="chooser.beanclass.history25" value="com.fbi.gui.misc.IconTitleBorderPanel" />
-      <entry key="chooser.beanclass.history26" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history25" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history26" value="com.fbi.plugins.sps.ui.task.OrderAckTaskPanel" />
       <entry key="codeditor.size" value="444, 424" />
-      <entry key="chooser.beanclass.history27" value="com.fbi.plugins.sps.ui.task.OrderAckTaskPanel" />
+      <entry key="chooser.beanclass.history27" value="com.fbi.gui.combobox.FBComboBox" />
+      <entry key="chooser.beanclass.history28" value="javax.swing.JLabel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -67,7 +68,7 @@
         <entry key="selection1486645105" value="this" />
         <entry key="selection-1442613971" value="pnlContent" />
         <entry key="selection442403283" value="pnlContent" />
-        <entry key="selection1478603171" value="orderAckTaskPanel1" />
+        <entry key="selection1670628396" value="tabs" />
       </node>
     </node>
   </component>
