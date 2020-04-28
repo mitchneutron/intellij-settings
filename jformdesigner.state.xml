@@ -48,6 +48,7 @@
       <entry key="codeditor.size" value="444, 424" />
       <entry key="chooser.beanclass.history27" value="com.fbi.gui.combobox.FBComboBox" />
       <entry key="chooser.beanclass.history28" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history29" value="com.fbi.gui.combobox.FBConstComboBox" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -69,6 +70,7 @@
         <entry key="selection-1442613971" value="pnlContent" />
         <entry key="selection442403283" value="pnlContent" />
         <entry key="selection1670628396" value="tabs" />
+        <entry key="selection-1028028545" value="cboStatus" />
       </node>
     </node>
   </component>
