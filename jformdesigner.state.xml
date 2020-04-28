@@ -44,6 +44,7 @@
       <entry key="chooser.beanclass.history24" value="javax.swing.JPanel" />
       <entry key="newform.superclass.history3" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
       <entry key="chooser.beanclass.history25" value="com.fbi.gui.misc.IconTitleBorderPanel" />
+      <entry key="chooser.beanclass.history26" value="com.fbi.gui.textfield.FBTextField" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
