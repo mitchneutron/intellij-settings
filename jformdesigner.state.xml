@@ -41,18 +41,18 @@
       <entry key="properties.expanded.events" value="true" />
       <entry key="chooser.beanclass.history22" value="javax.swing.JPanel" />
       <entry key="chooser.beanclass.history23" value="com.fbi.gui.misc.IconTitleBorderPanel" />
-      <entry key="chooser.beanclass.history24" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history24" value="com.fbi.plugins.sps.ui.task.OrderAckTaskPanel" />
       <entry key="newform.superclass.history3" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
-      <entry key="chooser.beanclass.history25" value="com.fbi.plugins.sps.ui.task.OrderAckTaskPanel" />
-      <entry key="chooser.beanclass.history26" value="com.fbi.gui.combobox.FBComboBox" />
+      <entry key="chooser.beanclass.history25" value="com.fbi.gui.combobox.FBComboBox" />
+      <entry key="chooser.beanclass.history26" value="com.fbi.plugins.sps.ui.settings.BaseSettingsPanel" />
       <entry key="codeditor.size" value="444, 424" />
-      <entry key="chooser.beanclass.history27" value="com.fbi.plugins.sps.ui.settings.BaseSettingsPanel" />
-      <entry key="chooser.beanclass.history28" value="com.fbi.plugins.sps.ui.task.InvoiceTaskPanel" />
-      <entry key="chooser.beanclass.history29" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history30" value="javax.swing.JCheckBox" />
-      <entry key="chooser.beanclass.history31" value="com.fbi.gui.textfield.FBTextFieldRate" />
-      <entry key="chooser.beanclass.history32" value="javax.swing.JLabel" />
-      <entry key="chooser.beanclass.history33" value="com.fbi.gui.textfield.FBTextFieldInt" />
+      <entry key="chooser.beanclass.history27" value="com.fbi.plugins.sps.ui.task.InvoiceTaskPanel" />
+      <entry key="chooser.beanclass.history28" value="com.fbi.gui.combobox.FBConstComboBox" />
+      <entry key="chooser.beanclass.history29" value="javax.swing.JCheckBox" />
+      <entry key="chooser.beanclass.history30" value="com.fbi.gui.textfield.FBTextFieldRate" />
+      <entry key="chooser.beanclass.history31" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history32" value="com.fbi.gui.textfield.FBTextFieldInt" />
+      <entry key="chooser.beanclass.history33" value="com.fbi.gui.textfield.FBTextField" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
