@@ -14,44 +14,45 @@
       <entry key="chooser.addtocategoryid" value="custom" />
       <entry key="chooser.beanclass.history3" value="com.fbi.gui.table.FBTable" />
       <entry key="chooser.beanclass.history4" value="com.fbi.gui.button.FBButton" />
-      <entry key="chooser.beanclass.history5" value="com.fbi.gui.textfield.FBTextFieldInt" />
-      <entry key="chooser.beanclass.history6" value="com.fbi.gui.textfield.FBTextFieldQuantity" />
+      <entry key="chooser.beanclass.history5" value="com.fbi.gui.textfield.FBTextFieldQuantity" />
+      <entry key="chooser.beanclass.history6" value="com.fbi.plugins.sps.ui.components.table.TablePanel" />
       <entry key="stringeditor.size" value="676, 240" />
-      <entry key="chooser.beanclass.history7" value="com.fbi.plugins.sps.ui.components.table.TablePanel" />
-      <entry key="chooser.beanclass.history8" value="javax.swing.JScrollPane" />
-      <entry key="chooser.beanclass.history9" value="com.fbi.gui.textfield.FBTextFieldPercent" />
+      <entry key="chooser.beanclass.history7" value="javax.swing.JScrollPane" />
+      <entry key="chooser.beanclass.history8" value="com.fbi.gui.textfield.FBTextFieldPercent" />
+      <entry key="chooser.beanclass.history9" value="com.fbi.gui.textfield.FBTextFieldMoney" />
       <entry key="properties.expanded.class" value="true" />
-      <entry key="chooser.beanclass.history10" value="com.fbi.gui.textfield.FBTextFieldMoney" />
+      <entry key="chooser.beanclass.history10" value="com.fbi.plugins.shipexpress.ui.miscpanel.ratemarkup.RateMarkupPanel" />
       <entry key="newform.superclass.history2" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history11" value="com.fbi.plugins.shipexpress.ui.miscpanel.ratemarkup.RateMarkupPanel" />
-      <entry key="chooser.beanclass.history12" value="com.fbi.plugins.ghx.ui.settings.HeaderSettingsPanel" />
-      <entry key="chooser.beanclass.history13" value="com.fbi.gui.textfield.FBLinkLabel" />
+      <entry key="chooser.beanclass.history11" value="com.fbi.plugins.ghx.ui.settings.HeaderSettingsPanel" />
+      <entry key="chooser.beanclass.history12" value="com.fbi.gui.textfield.FBLinkLabel" />
+      <entry key="chooser.beanclass.history13" value="com.fbi.plugins.ghx.ui.task.OrderImportPanel" />
       <entry key="addevent.passparams" value="false" />
-      <entry key="chooser.beanclass.history14" value="com.fbi.plugins.ghx.ui.task.OrderImportPanel" />
-      <entry key="chooser.beanclass.history15" value="com.fbi.plugins.ghx.ui.components.PasswordPanel" />
-      <entry key="chooser.beanclass.history16" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
-      <entry key="chooser.beanclass.history17" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history14" value="com.fbi.plugins.ghx.ui.components.PasswordPanel" />
+      <entry key="chooser.beanclass.history15" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
+      <entry key="chooser.beanclass.history16" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history17" value="com.fbi.plugins.ghx.ui.settings.ConnectionSettingsPanel" />
       <entry key="properties.expanded.category.expert" value="true" />
-      <entry key="chooser.beanclass.history18" value="com.fbi.plugins.ghx.ui.settings.ConnectionSettingsPanel" />
-      <entry key="chooser.beanclass.history19" value="com.fbi.plugins.ghx.ui.settings.MainSettingsPanel" />
+      <entry key="chooser.beanclass.history18" value="com.fbi.plugins.ghx.ui.settings.MainSettingsPanel" />
+      <entry key="chooser.beanclass.history19" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
       <entry key="properties.expanded.codegen" value="true" />
       <entry key="chooser.beanclass.filterenabled" value="false" />
-      <entry key="chooser.beanclass.history20" value="com.fbi.plugins.ghx.ui.components.schedule.SchedulePanel" />
-      <entry key="chooser.beanclass.history21" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
+      <entry key="chooser.beanclass.history20" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
+      <entry key="chooser.beanclass.history21" value="java.awt.BorderLayout" />
       <entry key="properties.expanded.events" value="true" />
-      <entry key="chooser.beanclass.history22" value="java.awt.BorderLayout" />
-      <entry key="chooser.beanclass.history23" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history24" value="com.fbi.gui.misc.IconTitleBorderPanel" />
+      <entry key="chooser.beanclass.history22" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history23" value="com.fbi.gui.misc.IconTitleBorderPanel" />
+      <entry key="chooser.beanclass.history24" value="com.fbi.gui.textfield.FBTextField" />
       <entry key="newform.superclass.history3" value="com.fbi.plugins.sps.ui.dialog.content.TableContent" />
-      <entry key="chooser.beanclass.history25" value="com.fbi.gui.textfield.FBTextField" />
-      <entry key="chooser.beanclass.history26" value="com.fbi.plugins.sps.ui.task.OrderAckTaskPanel" />
+      <entry key="chooser.beanclass.history25" value="com.fbi.plugins.sps.ui.task.OrderAckTaskPanel" />
+      <entry key="chooser.beanclass.history26" value="com.fbi.gui.combobox.FBComboBox" />
       <entry key="codeditor.size" value="444, 424" />
-      <entry key="chooser.beanclass.history27" value="com.fbi.gui.combobox.FBComboBox" />
-      <entry key="chooser.beanclass.history28" value="com.fbi.plugins.sps.ui.settings.BaseSettingsPanel" />
-      <entry key="chooser.beanclass.history29" value="com.fbi.plugins.sps.ui.task.InvoiceTaskPanel" />
-      <entry key="chooser.beanclass.history30" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history31" value="javax.swing.JLabel" />
-      <entry key="chooser.beanclass.history32" value="javax.swing.JCheckBox" />
+      <entry key="chooser.beanclass.history27" value="com.fbi.plugins.sps.ui.settings.BaseSettingsPanel" />
+      <entry key="chooser.beanclass.history28" value="com.fbi.plugins.sps.ui.task.InvoiceTaskPanel" />
+      <entry key="chooser.beanclass.history29" value="com.fbi.gui.combobox.FBConstComboBox" />
+      <entry key="chooser.beanclass.history30" value="javax.swing.JCheckBox" />
+      <entry key="chooser.beanclass.history31" value="com.fbi.gui.textfield.FBTextFieldRate" />
+      <entry key="chooser.beanclass.history32" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history33" value="com.fbi.gui.textfield.FBTextFieldInt" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
