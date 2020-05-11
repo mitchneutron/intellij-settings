@@ -47,13 +47,14 @@
       <entry key="chooser.beanclass.history26" value="javax.swing.JCheckBox" />
       <entry key="codeditor.size" value="444, 424" />
       <entry key="chooser.beanclass.history27" value="com.fbi.gui.textfield.FBTextFieldRate" />
-      <entry key="chooser.beanclass.history28" value="javax.swing.JLabel" />
-      <entry key="chooser.beanclass.history29" value="com.fbi.gui.textfield.FBTextFieldInt" />
-      <entry key="chooser.beanclass.history30" value="com.fbi.gui.textfield.FBTextField" />
-      <entry key="chooser.beanclass.history31" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
-      <entry key="chooser.beanclass.history32" value="com.fbi.gui.textfield.FBTextFieldMoney" />
-      <entry key="chooser.beanclass.history33" value="com.fbi.gui.combobox.FBComboBox" />
-      <entry key="chooser.beanclass.history34" value="com.fbi.plugins.ghx.ui.task.InvoicePanel" />
+      <entry key="chooser.beanclass.history28" value="com.fbi.gui.textfield.FBTextFieldInt" />
+      <entry key="chooser.beanclass.history29" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
+      <entry key="chooser.beanclass.history30" value="com.fbi.gui.textfield.FBTextFieldMoney" />
+      <entry key="chooser.beanclass.history31" value="com.fbi.gui.combobox.FBComboBox" />
+      <entry key="chooser.beanclass.history32" value="com.fbi.plugins.ghx.ui.task.InvoicePanel" />
+      <entry key="chooser.beanclass.history33" value="com.fbi.plugins.ghx.ui.components.AddressFilter" />
+      <entry key="chooser.beanclass.history34" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history35" value="com.fbi.gui.textfield.FBTextField" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -69,7 +70,6 @@
         <entry key="selection1317167129" value="tblOrderFieldMapping" />
         <entry key="selection2046831304" value="pnlTabs" />
         <entry key="selection388484805" value="btnSyncNow" />
-        <entry key="selection-1179274549" value="pnlReferenceFieldPanel" />
         <entry key="selection1486645105" value="this" />
         <entry key="selection442403283" value="pnlContent" />
         <entry key="selection-1382314936" value="this" />
@@ -77,7 +77,7 @@
         <entry key="selection-791590110" value="cboTSetPurposeCode" />
         <entry key="selection-1028028545" value="pnlSchedule" />
         <entry key="selection1670628396" value="connectionSettingsPanel" />
-        <entry key="selection-1202819035" value="cboRemitAddress" />
+        <entry key="selection-1179274549" value="pnlReferenceFieldPanel" />
       </node>
     </node>
   </component>
