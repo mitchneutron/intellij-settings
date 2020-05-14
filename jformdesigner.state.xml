@@ -61,6 +61,7 @@
       <entry key="chooser.beanclass.history39" value="com.fbi.plugins.ecommerce.ui.components.table.TablePanel" />
       <entry key="chooser.beanclass.history40" value="javax.swing.JProgressBar" />
       <entry key="chooser.beanclass.history41" value="com.fbi.gui.misc.IconTitleBorderPanel" />
+      <entry key="chooser.beanclass.history42" value="com.fbi.plugins.fishtank.ui.components.PluginPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -87,7 +88,6 @@
         <entry key="selection-1179274549" value="pnlReferenceFieldPanel" />
         <entry key="selection56322419" value="pnlContent,this" />
         <entry key="selection1184625643" value="this" />
-        <entry key="selection688386578" value="this" />
         <entry key="selection2046831304" value="pnlSettings" />
       </node>
     </node>
