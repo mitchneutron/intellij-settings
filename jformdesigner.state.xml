@@ -63,6 +63,8 @@
       <entry key="chooser.beanclass.history41" value="com.fbi.plugins.fishtank.ui.components.PluginPanel" />
       <entry key="chooser.beanclass.history42" value="com.fbi.plugins.fishtank.ui.components.table.TablePanel" />
       <entry key="chooser.beanclass.history43" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history44" value="com.fbi.plugins.fishtank.ui.components.table.model.DialogContentPanel" />
+      <entry key="chooser.beanclass.history45" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -87,7 +89,6 @@
         <entry key="selection442403283" value="pnlContent" />
         <entry key="selection-1390270174" value="pnlContent" />
         <entry key="selection-1179274549" value="pnlReferenceFieldPanel" />
-        <entry key="selection56322419" value="pnlContent,this" />
         <entry key="selection1184625643" value="this" />
         <entry key="selection2046831304" value="pnlSettings" />
       </node>
