@@ -62,6 +62,7 @@
       <entry key="chooser.beanclass.history40" value="javax.swing.JProgressBar" />
       <entry key="chooser.beanclass.history41" value="com.fbi.gui.misc.IconTitleBorderPanel" />
       <entry key="chooser.beanclass.history42" value="com.fbi.plugins.fishtank.ui.components.PluginPanel" />
+      <entry key="chooser.beanclass.history43" value="com.fbi.plugins.fishtank.ui.components.table.TablePanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
