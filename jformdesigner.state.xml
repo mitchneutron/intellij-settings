@@ -7,7 +7,7 @@
       <entry key="chooser.beanclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
       <entry key="newcontainer.layoutmanager" value="java.awt.GridBagLayout" />
       <entry key="newform.superclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="newform.superclass" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
+      <entry key="newform.superclass" value="com.fbi.gui.button.FBButton" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="chooser.beanclass.history2" value="com.fbi.gui.misc.FBTabbedPane" />
       <entry key="chooser.addtopalette" value="false" />
@@ -60,14 +60,15 @@
       <entry key="chooser.beanclass.history38" value="com.fbi.plugins.fishtank.ui.components.table.model.DialogContentPanel" />
       <entry key="chooser.beanclass.history39" value="com.fbi.plugins.fishtank.ui.components.table.TablePanel" />
       <entry key="chooser.beanclass.history40" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history41" value="com.fbi.gui.button.FBButton" />
-      <entry key="chooser.beanclass.history42" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history43" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
-      <entry key="chooser.beanclass.history44" value="javax.swing.JLabel" />
-      <entry key="chooser.beanclass.history45" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history46" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history41" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history42" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
+      <entry key="chooser.beanclass.history43" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history44" value="com.fbi.gui.combobox.FBConstComboBox" />
+      <entry key="chooser.beanclass.history45" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history46" value="com.fbi.gui.button.FBButton" />
       <entry key="newform.superclass.history4" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
       <entry key="newform.buttonbar" value="ok cancel" />
+      <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -94,6 +95,7 @@
         <entry key="selection-1179274549" value="pnlReferenceFieldPanel" />
         <entry key="selection1184625643" value="this" />
         <entry key="selection2046831304" value="pnlSettings" />
+        <entry key="selection694005645" value="this" />
       </node>
     </node>
   </component>
