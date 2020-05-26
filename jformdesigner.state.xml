@@ -58,14 +58,14 @@
       <entry key="chooser.beanclass.history36" value="com.fbi.gui.misc.IconTitleBorderPanel" />
       <entry key="chooser.beanclass.history37" value="com.fbi.plugins.fishtank.ui.components.PluginPanel" />
       <entry key="chooser.beanclass.history38" value="com.fbi.plugins.fishtank.ui.components.table.model.DialogContentPanel" />
-      <entry key="chooser.beanclass.history39" value="com.fbi.plugins.fishtank.ui.components.table.TablePanel" />
-      <entry key="chooser.beanclass.history40" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history41" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history42" value="javax.swing.JLabel" />
-      <entry key="chooser.beanclass.history43" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history44" value="com.fbi.gui.textfield.FBTextField" />
-      <entry key="chooser.beanclass.history45" value="com.fbi.gui.button.FBButton" />
-      <entry key="chooser.beanclass.history46" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
+      <entry key="chooser.beanclass.history39" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history40" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history41" value="com.fbi.gui.combobox.FBConstComboBox" />
+      <entry key="chooser.beanclass.history42" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history43" value="com.fbi.gui.button.FBButton" />
+      <entry key="chooser.beanclass.history44" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
+      <entry key="chooser.beanclass.history45" value="javax.swing.JLabel" />
+      <entry key="chooser.beanclass.history46" value="com.fbi.plugins.fishtank.ui.components.table.TablePanel" />
       <entry key="newform.superclass.history4" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
       <entry key="newform.buttonbar" value="ok" />
       <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
