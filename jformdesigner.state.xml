@@ -69,6 +69,7 @@
       <entry key="newform.superclass.history4" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
       <entry key="newform.buttonbar" value="ok" />
       <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
+      <entry key="chooser.beanclass.history47" value="com.evnt.client.modules.biscripteditor.panel.DragAndDropImagePanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
