@@ -70,6 +70,7 @@
       <entry key="newform.buttonbar" value="ok" />
       <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history47" value="com.evnt.client.modules.biscripteditor.panel.DragAndDropImagePanel" />
+      <entry key="chooser.beanclass.history48" value="com.fbi.plugins.fishtank.ui.components.FileDropPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -99,6 +100,7 @@
         <entry key="selection694005645" value="this" />
         <entry key="selection-713056927" value="progressBar" />
         <entry key="selection1026105279" value="cboChannel" />
+        <entry key="selection2130896165" value="fileDropPanel1" />
       </node>
     </node>
   </component>
