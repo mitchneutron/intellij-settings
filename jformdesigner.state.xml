@@ -99,11 +99,11 @@
         <entry key="selection694005645" value="this" />
         <entry key="selection-713056927" value="progressBar" />
         <entry key="selection1641662542" value="cboShipFrom" />
+        <entry key="selection1026105279" value="cboChannel" />
         <entry key="selection1951527494" value="pnlShippoAddress,pnlFishbowlAddress,this" />
         <entry key="selection-1268250354" value="lblHelperText,pnlBorder,this" />
-        <entry key="selection-1406011492" value="tablePanel" />
         <entry key="selection75811964" value="lblLastValidation,cboOrderType,fBLabel1,this" />
-        <entry key="selection1026105279" value="cboChannel" />
+        <entry key="selection-1406011492" value="tablePanel" />
       </node>
     </node>
   </component>
