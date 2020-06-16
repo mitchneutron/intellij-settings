@@ -73,6 +73,8 @@
       <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history47" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
       <entry key="chooser.beanclass.history48" value="com.fbi.gui.textfield.FBLinkLabel" />
+      <entry key="chooser.beanclass.history49" value="javafx.scene.control.Hyperlink" />
+      <entry key="chooser.beanclass.history50" value="com.fbi.gui.misc.FBLinkInternet" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -94,7 +96,6 @@
         <entry key="selection1478603171" value="tabbedPane1" />
         <entry key="selection442403283" value="pnlContent" />
         <entry key="selection-1390270174" value="pnlContent" />
-        <entry key="selection-1179274549" value="pnlReferenceFieldPanel" />
         <entry key="selection1184625643" value="this" />
         <entry key="selection2046831304" value="pnlSettings" />
         <entry key="selection694005645" value="this" />
@@ -106,7 +107,6 @@
         <entry key="selection-1406011492" value="tablePanel" />
         <entry key="selection75811964" value="lblLastValidation,cboOrderType,fBLabel1,this" />
         <entry key="paletteexpanded-366919756" value="components" />
-        <entry key="selection-366919756" value="btnCancel" />
       </node>
     </node>
   </component>
