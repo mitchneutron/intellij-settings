@@ -73,8 +73,9 @@
       <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history47" value="javafx.scene.control.Hyperlink" />
       <entry key="chooser.beanclass.history48" value="com.fbi.gui.misc.FBLinkInternet" />
-      <entry key="chooser.beanclass.history49" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history50" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history49" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history50" value="com.fbi.plugins.fishtank.ui.SettingsPanel" />
+      <entry key="chooser.beanclass.history51" value="javax.swing.JPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -108,6 +109,7 @@
         <entry key="selection1976743888" value="cboChannel" />
         <entry key="selection442403283" value="pnlContent" />
         <entry key="selection-1442613971" value="pnlContent" />
+        <entry key="selection-988956872" value="button1" />
       </node>
     </node>
   </component>
