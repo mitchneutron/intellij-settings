@@ -94,7 +94,6 @@
         <entry key="selection-791590110" value="cboTSetPurposeCode" />
         <entry key="selection1670628396" value="pnlSHip" />
         <entry key="selection1478603171" value="tabbedPane1" />
-        <entry key="selection-1390270174" value="pnlContent" />
         <entry key="selection1184625643" value="this" />
         <entry key="selection694005645" value="this" />
         <entry key="selection1641662542" value="cboShipFrom" />
@@ -105,12 +104,13 @@
         <entry key="paletteexpanded-366919756" value="components" />
         <entry key="selection-713056927" value="btnReconnect" />
         <entry key="selection1026105279" value="cboChannel" />
-        <entry key="selection442403283" value="pnlContent" />
         <entry key="selection-1442613971" value="pnlContent" />
         <entry key="selection1753844017" value="btnBack,btnFulfillments,pnlTitle,btnSettings,this,btnCarriers,btnShipments,btnForward" />
         <entry key="selection878992492" value="pnlTable" />
         <entry key="selection2046831304" value="pnlSettings" />
         <entry key="selection541911582" value="this" />
+        <entry key="selection442403283" value="pnlContent" />
+        <entry key="selection-1390270174" value="pnlContent" />
       </node>
     </node>
   </component>
