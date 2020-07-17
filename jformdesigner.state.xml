@@ -8,7 +8,7 @@
       <entry key="chooser.beanclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
       <entry key="newcontainer.layoutmanager" value="java.awt.GridBagLayout" />
       <entry key="newform.superclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="newform.superclass" value="javax.swing.JPanel" />
+      <entry key="newform.superclass" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="chooser.beanclass.history2" value="com.fbi.gui.misc.FBTabbedPane" />
       <entry key="chooser.addtopalette" value="false" />
@@ -67,7 +67,7 @@
       <entry key="chooser.beanclass.history45" value="javafx.scene.control.Hyperlink" />
       <entry key="chooser.beanclass.history46" value="com.fbi.gui.misc.FBLinkInternet" />
       <entry key="newform.superclass.history4" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
-      <entry key="newform.buttonbar" value="ok" />
+      <entry key="newform.buttonbar" value="ok cancel" />
       <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history47" value="javax.swing.JButton" />
       <entry key="chooser.beanclass.history48" value="com.fbi.plugins.fishtank.ui.SettingsPanel" />
@@ -76,6 +76,8 @@
       <entry key="chooser.beanclass.history51" value="com.fbi.gui.combobox.FBConstComboBox" />
       <entry key="properties.expanded.codegen" value="true" />
       <entry key="chooser.beanclass.history52" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="newform.superclass.history6" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history53" value="com.fbi.plugins.shipexpress.ui.carrierMap.CarrierMapDialogContent" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -111,6 +113,7 @@
         <entry key="selection541911582" value="this" />
         <entry key="selection442403283" value="pnlContent" />
         <entry key="selection-1390270174" value="pnlContent" />
+        <entry key="selection1741472508" value="cancelButton" />
       </node>
     </node>
   </component>
