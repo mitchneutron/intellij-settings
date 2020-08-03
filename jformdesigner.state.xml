@@ -77,6 +77,7 @@
       <entry key="chooser.beanclass.history52" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
       <entry key="newform.superclass.history6" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
       <entry key="chooser.beanclass.history53" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
+      <entry key="chooser.beanclass.history54" value="com.fbi.plugins.ghx.ui.task.OrderAckPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -92,7 +93,6 @@
         <entry key="selection388484805" value="btnSyncNow" />
         <entry key="selection1486645105" value="this" />
         <entry key="selection-791590110" value="cboTSetPurposeCode" />
-        <entry key="selection1670628396" value="pnlSHip" />
         <entry key="selection1478603171" value="tabbedPane1" />
         <entry key="selection1184625643" value="this" />
         <entry key="selection694005645" value="this" />
@@ -113,7 +113,9 @@
         <entry key="selection779530428" value="tablePanel" />
         <entry key="selection-2042283111" value="this" />
         <entry key="selection1556971908" value="pnlCustomer" />
-        <entry key="selection1126019343" value="this" />
+        <entry key="selection-1028028545" value="pnlBorder" />
+        <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
+        <entry key="selection1670628396" value="orderAckPanel1" />
       </node>
     </node>
   </component>
