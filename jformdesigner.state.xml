@@ -78,6 +78,7 @@
       <entry key="newform.superclass.history6" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
       <entry key="chooser.beanclass.history53" value="com.fbi.gui.textfield.FBTextField" />
       <entry key="chooser.beanclass.history54" value="com.fbi.gui.combobox.FBConstComboBox" />
+      <entry key="properties.expanded.events" value="true" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -114,7 +115,7 @@
         <entry key="selection1556971908" value="pnlCustomer" />
         <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
         <entry key="selection1670628396" value="orderAckPanel1" />
-        <entry key="selection-2042283111" value="cboCountry" />
+        <entry key="selection-2042283111" value="cboDefaultShipmentBilling" />
       </node>
     </node>
   </component>
