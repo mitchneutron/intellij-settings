@@ -69,15 +69,15 @@
       <entry key="newform.buttonbar" value="ok cancel" />
       <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history47" value="com.fbi.gui.textfield.FBTextFieldInt" />
-      <entry key="chooser.beanclass.history48" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history49" value="com.fbi.plugins.shipexpress.ui.carrierMap.CarrierMapDialogContent" />
-      <entry key="chooser.beanclass.history50" value="com.fbi.gui.textfield.FBTextField" />
-      <entry key="chooser.beanclass.history51" value="com.fbi.gui.textfield.FBTextFieldMoney" />
+      <entry key="chooser.beanclass.history48" value="com.fbi.plugins.shipexpress.ui.carrierMap.CarrierMapDialogContent" />
+      <entry key="chooser.beanclass.history49" value="com.fbi.gui.textfield.FBTextFieldMoney" />
+      <entry key="chooser.beanclass.history50" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history51" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
       <entry key="properties.expanded.codegen" value="true" />
-      <entry key="chooser.beanclass.history52" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history52" value="com.fbi.plugins.ghx.ui.task.OrderAckPanel" />
       <entry key="newform.superclass.history6" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
-      <entry key="chooser.beanclass.history53" value="com.fbi.plugins.ghx.ui.settings.BaseSettingsPanel" />
-      <entry key="chooser.beanclass.history54" value="com.fbi.plugins.ghx.ui.task.OrderAckPanel" />
+      <entry key="chooser.beanclass.history53" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history54" value="com.fbi.gui.combobox.FBConstComboBox" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -111,10 +111,10 @@
         <entry key="selection541911582" value="this" />
         <entry key="selection878992492" value="pnlCartonTable" />
         <entry key="selection779530428" value="tablePanel" />
-        <entry key="selection-2042283111" value="this" />
         <entry key="selection1556971908" value="pnlCustomer" />
         <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
         <entry key="selection1670628396" value="orderAckPanel1" />
+        <entry key="selection-2042283111" value="fBConstComboBox1" />
       </node>
     </node>
   </component>
