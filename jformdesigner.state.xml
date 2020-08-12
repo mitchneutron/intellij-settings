@@ -70,19 +70,19 @@
       <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history47" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history48" value="javax.swing.JComboBox" />
-      <entry key="chooser.beanclass.history49" value="com.fbi.plugins.shipexpress.ui.billing.BillingInfoSelector" />
-      <entry key="chooser.beanclass.history50" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history51" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history49" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history50" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history51" value="com.fbi.plugins.shipexpress.ui.customer.CustomerTableDialogContentPanel" />
       <entry key="properties.expanded.codegen" value="true" />
-      <entry key="chooser.beanclass.history52" value="com.fbi.plugins.shipexpress.ui.customer.CustomerTableDialogContentPanel" />
+      <entry key="chooser.beanclass.history52" value="javax.swing.JPanel" />
       <entry key="newform.superclass.history6" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
-      <entry key="chooser.beanclass.history53" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history54" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history53" value="com.fbi.gui.combobox.FBConstComboBox" />
+      <entry key="chooser.beanclass.history54" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
       <entry key="properties.expanded.events" value="true" />
       <entry key="addevent.gotomethod" value="false" />
-      <entry key="chooser.beanclass.history55" value="com.fbi.gui.textfield.FBTextField" />
-      <entry key="chooser.beanclass.history56" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history57" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="chooser.beanclass.history55" value="com.fbi.plugins.shipexpress.ui.billing.BillingInfoSelector" />
+      <entry key="chooser.beanclass.history56" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history57" value="com.fbi.gui.textfield.FBLabel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
