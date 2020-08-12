@@ -76,12 +76,12 @@
       <entry key="properties.expanded.codegen" value="true" />
       <entry key="chooser.beanclass.history52" value="com.fbi.gui.button.FBButton" />
       <entry key="newform.superclass.history6" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
-      <entry key="chooser.beanclass.history53" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history54" value="javax.swing.JComboBox" />
+      <entry key="chooser.beanclass.history53" value="javax.swing.JComboBox" />
+      <entry key="chooser.beanclass.history54" value="com.fbi.plugins.shipexpress.ui.billing.BillingInfoSelector" />
       <entry key="properties.expanded.events" value="true" />
       <entry key="addevent.gotomethod" value="false" />
-      <entry key="chooser.beanclass.history55" value="com.fbi.plugins.shipexpress.ui.billing.BillingInfoSelector" />
-      <entry key="chooser.beanclass.history56" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history55" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history56" value="com.fbi.gui.combobox.FBConstComboBox" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -113,7 +113,6 @@
         <entry key="selection-1390270174" value="pnlContent" />
         <entry key="selection541911582" value="this" />
         <entry key="selection779530428" value="tablePanel" />
-        <entry key="selection1556971908" value="pnlCustomer" />
         <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
         <entry key="selection1670628396" value="orderAckPanel1" />
         <entry key="selection-1179274549" value="chkPullCartonShippingCost" />
