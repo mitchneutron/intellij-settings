@@ -2,7 +2,7 @@
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
     <entry key="updates.lastcheckedversion" value="7.0.2.4.305" />
-    <entry key="updates.lastchecked" value="1596672192110" />
+    <entry key="updates.lastchecked" value="1597331099861" />
     <entry key="updates.infoshown" value="true" />
     <node name="designer">
       <entry key="chooser.beanclass.history1" value="com.fbi.gui.misc.FBTabbedPane" />
@@ -120,6 +120,7 @@
         <entry key="selection-2042283111" value="cboCountry" />
         <entry key="selection-1788057522" value="pnlSchedule,this" />
         <entry key="selection2075211240" value="this" />
+        <entry key="selection1188290866" value="chkInsurance,pnlReturnLabel" />
       </node>
     </node>
   </component>
