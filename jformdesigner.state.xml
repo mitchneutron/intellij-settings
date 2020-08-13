@@ -81,8 +81,8 @@
       <entry key="properties.expanded.events" value="true" />
       <entry key="addevent.gotomethod" value="false" />
       <entry key="chooser.beanclass.history55" value="com.fbi.plugins.shipexpress.ui.billing.BillingInfoSelector" />
-      <entry key="chooser.beanclass.history56" value="com.fbi.gui.textfield.FBTextField" />
-      <entry key="chooser.beanclass.history57" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history56" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history57" value="com.fbi.gui.textfield.FBTextField" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
