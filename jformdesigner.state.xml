@@ -84,6 +84,7 @@
       <entry key="chooser.beanclass.history56" value="com.fbi.gui.textfield.FBLabel" />
       <entry key="chooser.beanclass.history57" value="com.fbi.gui.combobox.FBConstComboBox" />
       <entry key="chooser.beanclass.history58" value="com.fbi.plugins.shipexpress.ui.billing.BillingInfoContent" />
+      <entry key="chooser.beanclass.history59" value="com.fbi.gui.textfield.FBTextFieldPhone" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
