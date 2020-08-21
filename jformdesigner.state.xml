@@ -104,7 +104,6 @@
         <entry key="selection1184625643" value="this" />
         <entry key="selection694005645" value="this" />
         <entry key="selection-1268250354" value="lblHelperText,pnlBorder,this" />
-        <entry key="selection-1406011492" value="tablePanel" />
         <entry key="paletteexpanded-366919756" value="components" />
         <entry key="selection-713056927" value="btnReconnect" />
         <entry key="selection1026105279" value="cboChannel" />
@@ -118,12 +117,12 @@
         <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
         <entry key="selection1670628396" value="orderAckPanel1" />
         <entry key="selection-1179274549" value="chkPullCartonShippingCost" />
-        <entry key="selection2075211240" value="this" />
         <entry key="selection-1017141893" value="btnSubmit" />
         <entry key="selection-1788057522" value="pnlSchedule,this" />
         <entry key="selection75811964" value="this,fBLabel1,cboOrderType,lblLastValidation" />
         <entry key="selection1951527494" value="this,pnlFishbowlAddress,pnlShippoAddress" />
         <entry key="selection118040593" value="pnlSettings" />
+        <entry key="selection2075211240" value="pnlShipFrom" />
       </node>
     </node>
   </component>
