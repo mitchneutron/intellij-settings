@@ -118,11 +118,11 @@
         <entry key="selection1670628396" value="orderAckPanel1" />
         <entry key="selection-1179274549" value="chkPullCartonShippingCost" />
         <entry key="selection-1017141893" value="btnSubmit" />
-        <entry key="selection-1788057522" value="pnlSchedule,this" />
         <entry key="selection75811964" value="this,fBLabel1,cboOrderType,lblLastValidation" />
         <entry key="selection1951527494" value="this,pnlFishbowlAddress,pnlShippoAddress" />
         <entry key="selection118040593" value="pnlSettings" />
         <entry key="selection2075211240" value="pnlShipFrom" />
+        <entry key="selection-1788057522" value="lblDescription,this,pnlSchedule,pnlSettings" />
       </node>
     </node>
   </component>
