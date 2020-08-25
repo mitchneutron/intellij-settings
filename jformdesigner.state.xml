@@ -122,7 +122,7 @@
         <entry key="selection1951527494" value="this,pnlFishbowlAddress,pnlShippoAddress" />
         <entry key="selection118040593" value="pnlSettings" />
         <entry key="selection2075211240" value="pnlShipFrom" />
-        <entry key="selection-1788057522" value="lblDescription,this,pnlSchedule,pnlSettings" />
+        <entry key="selection-1788057522" value="lblDescription,pnlSettings,pnlSchedule,this" />
       </node>
     </node>
   </component>
