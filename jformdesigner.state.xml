@@ -65,7 +65,6 @@
       <entry key="chooser.beanclass.history45" value="com.fbi.plugins.ghx.ui.task.OrderAckPanel" />
       <entry key="chooser.beanclass.history46" value="com.fbi.gui.combobox.FBComboBox" />
       <entry key="newform.superclass.history4" value="com.fbi.plugins.fishtank.ui.components.PluginDialog" />
-      <entry key="newform.buttonbar" value="ok cancel" />
       <entry key="newform.superclass.history5" value="com.fbi.gui.button.FBButton" />
       <entry key="chooser.beanclass.history47" value="javax.swing.JComboBox" />
       <entry key="chooser.beanclass.history48" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
