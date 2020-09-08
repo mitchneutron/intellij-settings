@@ -85,6 +85,7 @@
       <entry key="chooser.beanclass.history59" value="com.fbi.gui.textfield.FBTextField" />
       <entry key="newform.superclass.history7" value="com.fbi.plugins.fishtank.ui.components.PluginPanel" />
       <entry key="newform.buttonbar" value="ok cancel" />
+      <entry key="chooser.beanclass.history60" value="com.fbi.plugins.fishtank.ui.components.PasswordPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
