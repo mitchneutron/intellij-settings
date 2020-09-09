@@ -100,7 +100,6 @@
         <entry key="selection1317167129" value="tblOrderFieldMapping" />
         <entry key="selection388484805" value="btnSyncNow" />
         <entry key="selection1486645105" value="this" />
-        <entry key="selection-791590110" value="cboTSetPurposeCode" />
         <entry key="selection1478603171" value="tabbedPane1" />
         <entry key="selection1184625643" value="this" />
         <entry key="selection694005645" value="this" />
@@ -123,6 +122,7 @@
         <entry key="selection-1788057522" value="lblDescription,pnlSettings,pnlSchedule,this" />
         <entry key="selection75811964" value="this,lblLastValidation,cboOrderType,fBLabel1" />
         <entry key="selection713642546" value="fBButton1" />
+        <entry key="selection-1382314936" value="pnlTable" />
       </node>
     </node>
   </component>
