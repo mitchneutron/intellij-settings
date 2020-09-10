@@ -8,7 +8,7 @@
       <entry key="chooser.beanclass.history1" value="com.fbi.gui.misc.FBTabbedPane" />
       <entry key="newcontainer.layoutmanager" value="java.awt.GridBagLayout" />
       <entry key="newform.superclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="newform.superclass" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="newform.superclass" value="javax.swing.JPanel" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="chooser.beanclass.history2" value="com.fbi.gui.table.FBTable" />
       <entry key="chooser.addtopalette" value="false" />
@@ -124,8 +124,8 @@
         <entry key="selection75811964" value="this,lblLastValidation,cboOrderType,fBLabel1" />
         <entry key="selection713642546" value="fBButton1" />
         <entry key="selection-1382314936" value="pnlTable" />
-        <entry key="selection936034564" value="pnlMain" />
         <entry key="selection878992492" value="pnlCartonTable" />
+        <entry key="selection936034564" value="this" />
       </node>
     </node>
   </component>
