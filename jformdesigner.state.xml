@@ -125,8 +125,8 @@
         <entry key="selection-1788057522" value="lblDescription,pnlSettings,pnlSchedule,this" />
         <entry key="selection75811964" value="this,lblLastValidation,cboOrderType,fBLabel1" />
         <entry key="selection713642546" value="fBButton1" />
-        <entry key="selection-1382314936" value="pnlTable" />
         <entry key="selection878992492" value="pnlCartonTable" />
+        <entry key="selection-1382314936" value="pnlTable" />
       </node>
     </node>
   </component>
