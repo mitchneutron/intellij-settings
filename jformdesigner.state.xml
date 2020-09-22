@@ -114,7 +114,6 @@
         <entry key="selection1753844017" value="btnBack,btnFulfillments,pnlTitle,btnSettings,this,btnCarriers,btnShipments,btnForward" />
         <entry key="selection2046831304" value="pnlSettings" />
         <entry key="selection442403283" value="pnlContent" />
-        <entry key="selection-1390270174" value="pnlContent" />
         <entry key="selection541911582" value="this" />
         <entry key="selection779530428" value="tablePanel" />
         <entry key="selection-1017141893" value="btnSubmit" />
@@ -128,6 +127,7 @@
         <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
         <entry key="selection1670628396" value="tabs" />
         <entry key="selection2100267451" value="btnCancel" />
+        <entry key="selection-1390270174" value="pnlContent" />
       </node>
     </node>
   </component>
