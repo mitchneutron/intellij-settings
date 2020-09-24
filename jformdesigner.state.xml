@@ -82,13 +82,13 @@
       <entry key="chooser.beanclass.history56" value="javax.swing.JCheckBox" />
       <entry key="chooser.beanclass.history57" value="com.fbi.gui.combobox.FBComboBox" />
       <entry key="chooser.beanclass.history58" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history59" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history59" value="javax.swing.JButton" />
       <entry key="newform.superclass.history7" value="com.fbi.plugins.fishtank.ui.components.PluginPanel" />
-      <entry key="chooser.beanclass.history60" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history61" value="com.fbi.gui.button.FBButton" />
-      <entry key="chooser.beanclass.history62" value="com.jdc.components.wizard.WizardDialog" />
-      <entry key="chooser.beanclass.history63" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="chooser.beanclass.history64" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history60" value="com.fbi.gui.button.FBButton" />
+      <entry key="chooser.beanclass.history61" value="com.jdc.components.wizard.WizardDialog" />
+      <entry key="chooser.beanclass.history62" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="chooser.beanclass.history63" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history64" value="com.fbi.gui.textfield.FBLabel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -122,12 +122,13 @@
         <entry key="selection-1788057522" value="lblDescription,pnlSettings,pnlSchedule,this" />
         <entry key="selection75811964" value="this,lblLastValidation,cboOrderType,fBLabel1" />
         <entry key="selection713642546" value="fBButton1" />
-        <entry key="selection878992492" value="pnlCartonTable" />
         <entry key="selection-1382314936" value="pnlTable" />
         <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
         <entry key="selection1670628396" value="tabs" />
         <entry key="selection2100267451" value="btnCancel" />
         <entry key="selection-1390270174" value="pnlContent" />
+        <entry key="selection100926190" value="fBLabel1" />
+        <entry key="selection878992492" value="pnlCartonTable" />
       </node>
     </node>
   </component>
