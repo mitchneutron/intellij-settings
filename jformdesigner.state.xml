@@ -90,12 +90,12 @@
       <entry key="chooser.beanclass.history62" value="com.fbi.gui.textfield.FBLabel" />
       <entry key="chooser.beanclass.history63" value="com.jidesoft.swing.TitledSeparator" />
       <entry key="chooser.beanclass.history64" value="com.fbi.gui.panel.TitlePanel" />
-      <entry key="chooser.beanclass.history65" value="com.fbi.gui.wizard.FBWizard" />
-      <entry key="chooser.beanclass.history66" value="com.fbi.gui.panel.FBScrollPane" />
-      <entry key="chooser.beanclass.history67" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history68" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history69" value="com.fbi.plugins.shipexpress.ui.batchshipping.BatchShippingSelectionPanel" />
-      <entry key="chooser.beanclass.history70" value="com.fbi.gui.wizard.FBWizardStep" />
+      <entry key="chooser.beanclass.history65" value="com.fbi.gui.panel.FBScrollPane" />
+      <entry key="chooser.beanclass.history66" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history67" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history68" value="com.fbi.plugins.shipexpress.ui.batchshipping.BatchShippingSelectionPanel" />
+      <entry key="chooser.beanclass.history69" value="com.fbi.gui.wizard.FBWizardStep" />
+      <entry key="chooser.beanclass.history70" value="com.fbi.gui.wizard.FBWizard" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
