@@ -93,9 +93,9 @@
       <entry key="chooser.beanclass.history65" value="com.fbi.gui.wizard.FBWizard" />
       <entry key="chooser.beanclass.history66" value="com.fbi.gui.panel.FBScrollPane" />
       <entry key="chooser.beanclass.history67" value="com.fbi.gui.wizard.FBWizardStep" />
-      <entry key="chooser.beanclass.history68" value="com.fbi.plugins.shipexpress.ui.batchshipping.BatchShippingSelectionPanel" />
-      <entry key="chooser.beanclass.history69" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history70" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history68" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history69" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history70" value="com.fbi.plugins.shipexpress.ui.batchshipping.BatchShippingSelectionPanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -136,6 +136,7 @@
         <entry key="selection878992492" value="pnlCartonTable" />
         <entry key="selection1951527494" value="btnEdit,pnlShippoAddress,this,pnlFishbowlAddress,btnRefresh" />
         <entry key="selection75811964" value="fBLabel1,cboOrderType,lblLastValidation,this" />
+        <entry key="selection-1413967476" value="chkInsurance" />
       </node>
     </node>
   </component>
