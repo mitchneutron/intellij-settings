@@ -139,7 +139,7 @@
         <entry key="selection75811964" value="fBLabel1,cboOrderType,lblLastValidation,this" />
         <entry key="selection-1413967476" value="chkInsurance" />
         <entry key="selection-1268250354" value="lblHelperText,pnlBorder,this" />
-        <entry key="selection1951527494" value="addressValidationPanel1" />
+        <entry key="selection1951527494" value="pnlValidation,this" />
       </node>
     </node>
   </component>
