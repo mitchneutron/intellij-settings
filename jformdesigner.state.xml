@@ -120,7 +120,6 @@
         <entry key="selection-713056927" value="btnReconnect" />
         <entry key="selection1026105279" value="cboChannel" />
         <entry key="selection-1442613971" value="pnlContent" />
-        <entry key="selection1753844017" value="btnBack,btnFulfillments,pnlTitle,btnSettings,this,btnCarriers,btnShipments,btnForward" />
         <entry key="selection2046831304" value="pnlSettings" />
         <entry key="selection442403283" value="pnlContent" />
         <entry key="selection541911582" value="this" />
@@ -139,6 +138,7 @@
         <entry key="selection75811964" value="fBLabel1,cboOrderType,lblLastValidation,this" />
         <entry key="selection1951527494" value="pnlValidation,this" />
         <entry key="selection-1413967476" value="chkInsurance" />
+        <entry key="selection1753844017" value="btnFulfillments" />
       </node>
     </node>
   </component>
