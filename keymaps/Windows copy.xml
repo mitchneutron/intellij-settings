@@ -5,4 +5,7 @@
   <action id="Debugger.PopFrame">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
 </keymap>
