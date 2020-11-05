@@ -94,9 +94,9 @@
       <entry key="chooser.beanclass.history66" value="com.fbi.plugins.shipexpress.ui.addressvalidation.AddressValidationPanel" />
       <entry key="chooser.beanclass.history67" value="javax.swing.JButton" />
       <entry key="chooser.beanclass.history68" value="javax.swing.JCheckBox" />
-      <entry key="chooser.beanclass.history69" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history70" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history71" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history69" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history70" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history71" value="com.fbi.gui.combobox.FBConstComboBox" />
       <entry key="chooser.beanclass.history72" value="com.fbi.gui.textfield.FBTextField" />
       <entry key="properties.expanded.layout" value="false" />
       <node name="forms">
@@ -139,7 +139,9 @@
         <entry key="selection990100142" value="productPanel" />
         <entry key="selection70093594" value="lblUomInfo" />
         <entry key="selection878992492" value="pnlCartonTable" />
-        <entry key="selection1498698812" value="lblNoteCode" />
+        <entry key="selection-292895971" value="this" />
+        <entry key="paletteexpanded1498698812" value="components" />
+        <entry key="selection1498698812" value="fBTextField1" />
       </node>
     </node>
   </component>
