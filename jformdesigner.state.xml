@@ -119,7 +119,6 @@
         <entry key="paletteexpanded-366919756" value="components" />
         <entry key="selection-713056927" value="btnReconnect" />
         <entry key="selection1026105279" value="cboChannel" />
-        <entry key="selection-1442613971" value="pnlContent" />
         <entry key="selection2046831304" value="pnlSettings" />
         <entry key="selection442403283" value="pnlContent" />
         <entry key="selection541911582" value="this" />
@@ -133,7 +132,6 @@
         <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
         <entry key="selection1670628396" value="tabs" />
         <entry key="selection2100267451" value="btnCancel" />
-        <entry key="selection-1390270174" value="pnlContent" />
         <entry key="selection75811964" value="fBLabel1,cboOrderType,lblLastValidation,this" />
         <entry key="selection1951527494" value="pnlValidation,this" />
         <entry key="selection-1413967476" value="chkInsurance" />
@@ -141,6 +139,7 @@
         <entry key="selection990100142" value="productPanel" />
         <entry key="selection70093594" value="lblUomInfo" />
         <entry key="selection878992492" value="pnlCartonTable" />
+        <entry key="selection1498698812" value="lblNoteCode" />
       </node>
     </node>
   </component>
