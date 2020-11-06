@@ -99,6 +99,7 @@
       <entry key="chooser.beanclass.history71" value="com.fbi.gui.textfield.FBTextField" />
       <entry key="chooser.beanclass.history72" value="com.fbi.gui.combobox.FBComboBox" />
       <entry key="properties.expanded.layout" value="false" />
+      <entry key="chooser.beanclass.history73" value="com.fbi.plugins.sps.ui.components.table.mapping.TablePanel" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -142,6 +143,8 @@
         <entry key="paletteexpanded1498698812" value="components" />
         <entry key="selection-292895971" value="this" />
         <entry key="selection-1442613971" value="this,tblLocationGroup,pnlSchedule" />
+        <entry key="selection-532197106" value="pnlContent,this" />
+        <entry key="selection-901872078" value="this" />
       </node>
     </node>
   </component>
