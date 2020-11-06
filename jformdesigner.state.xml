@@ -121,7 +121,6 @@
         <entry key="selection-713056927" value="btnReconnect" />
         <entry key="selection1026105279" value="cboChannel" />
         <entry key="selection2046831304" value="pnlSettings" />
-        <entry key="selection442403283" value="pnlContent" />
         <entry key="selection541911582" value="this" />
         <entry key="selection779530428" value="tablePanel" />
         <entry key="selection-1017141893" value="btnSubmit" />
@@ -145,6 +144,11 @@
         <entry key="selection-1442613971" value="this,tblLocationGroup,pnlSchedule" />
         <entry key="selection-532197106" value="pnlContent,this" />
         <entry key="selection-901872078" value="this" />
+        <entry key="selection-1640105871" value="tablePanel1" />
+        <entry key="selection1071463567" value="this,pnlContent" />
+        <entry key="selection442403283" value="pnlContent" />
+        <entry key="selection1834076355" value="this" />
+        <entry key="selection-1617141603" value="this,pnlContent" />
       </node>
     </node>
   </component>
