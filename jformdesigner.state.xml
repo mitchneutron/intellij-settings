@@ -9,7 +9,7 @@
       <entry key="chooser.beanclass.history1" value="com.fbi.gui.misc.FBTabbedPane" />
       <entry key="newcontainer.layoutmanager" value="java.awt.BorderLayout" />
       <entry key="newform.superclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="newform.superclass" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="newform.superclass" value="javax.swing.JPanel" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="chooser.beanclass.history2" value="com.fbi.gui.table.FBTable" />
       <entry key="chooser.addtopalette" value="false" />
@@ -93,13 +93,13 @@
       <entry key="chooser.beanclass.history65" value="com.fbi.plugins.shipexpress.ui.addressvalidation.AddressValidationPanel" />
       <entry key="chooser.beanclass.history66" value="javax.swing.JButton" />
       <entry key="chooser.beanclass.history67" value="javax.swing.JCheckBox" />
-      <entry key="chooser.beanclass.history68" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history69" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history70" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history71" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history68" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history69" value="com.fbi.plugins.sps.ui.components.table.mapping.TablePanel" />
+      <entry key="chooser.beanclass.history70" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history71" value="com.fbi.gui.textfield.FBLabel" />
       <entry key="chooser.beanclass.history72" value="com.fbi.gui.combobox.FBComboBox" />
       <entry key="properties.expanded.layout" value="false" />
-      <entry key="chooser.beanclass.history73" value="com.fbi.plugins.sps.ui.components.table.mapping.TablePanel" />
+      <entry key="chooser.beanclass.history73" value="com.fbi.gui.combobox.FBConstComboBox" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -149,7 +149,8 @@
         <entry key="selection442403283" value="pnlTable" />
         <entry key="selection1834076355" value="this" />
         <entry key="selection1385413890" value="pnlTable,this" />
-        <entry key="selection-1617141603" value="this,pnlContent" />
+        <entry key="selection-1617141603" value="pnlContent" />
+        <entry key="selection-1942523132" value="this" />
       </node>
     </node>
   </component>
