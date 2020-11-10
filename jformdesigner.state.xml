@@ -97,9 +97,11 @@
       <entry key="chooser.beanclass.history69" value="com.fbi.gui.combobox.FBComboBox" />
       <entry key="chooser.beanclass.history70" value="com.fbi.gui.combobox.FBConstComboBox" />
       <entry key="chooser.beanclass.history71" value="com.fbi.gui.textfield.FBTextField" />
-      <entry key="chooser.beanclass.history72" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history72" value="com.fbi.plugins.sps.ui.components.table.TablePanel" />
       <entry key="properties.expanded.layout" value="false" />
-      <entry key="chooser.beanclass.history73" value="com.fbi.plugins.sps.ui.components.table.TablePanel" />
+      <entry key="chooser.beanclass.history73" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history74" value="com.fbi.plugins.sps.ui.components.table.TableContent" />
+      <entry key="chooser.beanclass.history75" value="com.fbi.plugins.sps.ui.dialog.content.TradingPartnerTableContent" />
       <node name="forms">
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
@@ -140,7 +142,6 @@
         <entry key="selection70093594" value="lblUomInfo" />
         <entry key="selection878992492" value="pnlCartonTable" />
         <entry key="paletteexpanded1498698812" value="components" />
-        <entry key="selection-292895971" value="this" />
         <entry key="selection-1442613971" value="this,tblLocationGroup,pnlSchedule" />
         <entry key="selection-532197106" value="pnlContent,this" />
         <entry key="selection-901872078" value="this" />
@@ -151,6 +152,8 @@
         <entry key="selection1385413890" value="pnlTable,this" />
         <entry key="selection-1942523132" value="this" />
         <entry key="selection-1617141603" value="pnlContent" />
+        <entry key="selection-292895971" value="this" />
+        <entry key="selection1498698812" value="cboPriceTypeId" />
       </node>
     </node>
   </component>
