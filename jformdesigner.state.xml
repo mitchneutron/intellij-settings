@@ -135,7 +135,6 @@
         <entry key="selection1670628396" value="tabs" />
         <entry key="selection2100267451" value="btnCancel" />
         <entry key="selection75811964" value="fBLabel1,cboOrderType,lblLastValidation,this" />
-        <entry key="selection1951527494" value="pnlValidation,this" />
         <entry key="selection-1413967476" value="chkInsurance" />
         <entry key="selection1753844017" value="btnFulfillments" />
         <entry key="selection990100142" value="productPanel" />
@@ -154,6 +153,7 @@
         <entry key="selection-1617141603" value="pnlContent" />
         <entry key="selection-292895971" value="this" />
         <entry key="selection1498698812" value="cboPriceTypeId" />
+        <entry key="selection1951527494" value="pnlValidation,this" />
       </node>
     </node>
   </component>
