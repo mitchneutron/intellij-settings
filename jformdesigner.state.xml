@@ -103,7 +103,6 @@
       <entry key="chooser.beanclass.history75" value="com.fbi.plugins.sps.ui.settings.BaseSettingsPanel" />
       <entry key="chooser.beanclass.history76" value="javax.swing.JScrollPane" />
       <node name="forms">
-        <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection435401829" value="btnAdd" />
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
         <entry key="selection195188610" value="pnlOrderStatusSettings,pnlLocationGroupSettings,pnlPaymentSettings,pnlCarrierSettings,pnlTaxSettings,pnlOrderSettings,pnlSchedule,pnlCustomerSettings,pnlOrderItemSettings" />
@@ -124,7 +123,6 @@
         <entry key="selection2046831304" value="pnlSettings" />
         <entry key="selection541911582" value="this" />
         <entry key="selection779530428" value="tablePanel" />
-        <entry key="selection2075211240" value="pnlShipFrom" />
         <entry key="selection713642546" value="fBButton1" />
         <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
         <entry key="selection1670628396" value="tabs" />
@@ -152,6 +150,8 @@
         <entry key="selection-292895971" value="this" />
         <entry key="selection-214441549" value="txtCustomsItemValue" />
         <entry key="selection1478603171" value="tradingPartnerSettingsPanel" />
+        <entry key="selection-1319196932" value="tablePanel" />
+        <entry key="selection2075211240" value="pnlProduct,pnlCarrierMap,pnlCustomer,pnlAddressPanel,pnlShipFrom" />
       </node>
     </node>
   </component>
