@@ -105,6 +105,7 @@
       <entry key="chooser.beanclass.history77" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
       <entry key="chooser.beanclass.history78" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
       <entry key="chooser.beanclass.history79" value="com.fbi.plugins.shipexpress.ui.insurance.InsurancePanel" />
+      <entry key="chooser.beanclass.history80" value="com.fbi.plugins.shipexpress.ui.component.table.TablePanel" />
       <node name="forms">
         <entry key="selection435401829" value="btnAdd" />
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
@@ -156,7 +157,8 @@
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection118040593" value="pnlSettings" />
         <entry key="selection1019756697" value="pnlTabs" />
-        <entry key="selection-1116179136" value="insurancePanel1" />
+        <entry key="selection-1116179136" value="pnlInsurance" />
+        <entry key="selection-184129020" value="insurancePanel1" />
       </node>
     </node>
   </component>
