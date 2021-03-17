@@ -145,7 +145,6 @@
         <entry key="selection1071463567" value="this,pnlContent" />
         <entry key="selection-1942523132" value="this" />
         <entry key="selection1498698812" value="cboPriceTypeId" />
-        <entry key="selection1951527494" value="pnlValidation,this" />
         <entry key="selection-1017141893" value="btnSubmit" />
         <entry key="selection936034564" value="pnlInformation" />
         <entry key="selection-1788057522" value="pnlSchedule" />
@@ -159,6 +158,7 @@
         <entry key="selection1019756697" value="pnlTabs" />
         <entry key="selection-920710208" value="cboCurrency" />
         <entry key="selection-1116179136" value="this" />
+        <entry key="selection1951527494" value="pnlValidation,this" />
       </node>
     </node>
   </component>
