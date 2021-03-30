@@ -6,9 +6,9 @@
     <entry key="updates.infoshown" value="true" />
     <node name="designer">
       <entry key="chooser.beanclass.history1" value="com.fbi.gui.misc.FBTabbedPane" />
-      <entry key="newcontainer.layoutmanager" value="java.awt.BorderLayout" />
+      <entry key="newcontainer.layoutmanager" value="java.awt.GridBagLayout" />
       <entry key="newform.superclass.history1" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="newform.superclass" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="newform.superclass" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
       <entry key="newform.toolkit" value="Swing" />
       <entry key="chooser.beanclass.history2" value="com.fbi.gui.table.FBTable" />
       <entry key="chooser.addtopalette" value="false" />
@@ -96,16 +96,16 @@
       <entry key="chooser.beanclass.history69" value="javax.swing.JScrollPane" />
       <entry key="chooser.beanclass.history70" value="com.fbi.plugins.shipexpress.ui.insurance.InsuranceButton" />
       <entry key="chooser.beanclass.history71" value="javax.swing.JCheckBox" />
-      <entry key="chooser.beanclass.history72" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history72" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
       <entry key="properties.expanded.layout" value="false" />
-      <entry key="chooser.beanclass.history73" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
-      <entry key="chooser.beanclass.history74" value="com.fbi.plugins.shipexpress.ui.insurance.InsurancePanel" />
-      <entry key="chooser.beanclass.history75" value="com.fbi.plugins.shipexpress.ui.component.table.TablePanel" />
-      <entry key="chooser.beanclass.history76" value="com.fbi.gui.combobox.FBComboBox" />
-      <entry key="chooser.beanclass.history77" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history78" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history79" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="chooser.beanclass.history80" value="com.fbi.plugins.shipexpress.ui.carton.CartonPanel" />
+      <entry key="chooser.beanclass.history73" value="com.fbi.plugins.shipexpress.ui.insurance.InsurancePanel" />
+      <entry key="chooser.beanclass.history74" value="com.fbi.plugins.shipexpress.ui.component.table.TablePanel" />
+      <entry key="chooser.beanclass.history75" value="com.fbi.gui.combobox.FBComboBox" />
+      <entry key="chooser.beanclass.history76" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history77" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="chooser.beanclass.history78" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history79" value="com.fbi.plugins.shipexpress.ui.carton.CartonPanel" />
+      <entry key="chooser.beanclass.history80" value="javax.swing.JButton" />
       <entry key="chooser.beanclass.history81" value="javax.swing.JPanel" />
       <node name="forms">
         <entry key="selection435401829" value="btnAdd" />
@@ -160,6 +160,7 @@
         <entry key="selection-1091478718" value="tblItems" />
         <entry key="selection1188290866" value="cboCarrier" />
         <entry key="selection-1903595172" value="txtTotalWeight" />
+        <entry key="selection878992492" value="lblUspsCartonLimit" />
       </node>
     </node>
   </component>
