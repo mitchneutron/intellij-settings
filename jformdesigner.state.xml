@@ -96,18 +96,18 @@
       <entry key="chooser.beanclass.history69" value="javax.swing.JScrollPane" />
       <entry key="chooser.beanclass.history70" value="com.fbi.plugins.shipexpress.ui.insurance.InsuranceButton" />
       <entry key="chooser.beanclass.history71" value="javax.swing.JCheckBox" />
-      <entry key="chooser.beanclass.history72" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
+      <entry key="chooser.beanclass.history72" value="com.fbi.plugins.shipexpress.ui.insurance.InsurancePanel" />
       <entry key="properties.expanded.layout" value="false" />
-      <entry key="chooser.beanclass.history73" value="com.fbi.plugins.shipexpress.ui.insurance.InsurancePanel" />
-      <entry key="chooser.beanclass.history74" value="com.fbi.plugins.shipexpress.ui.component.table.TablePanel" />
-      <entry key="chooser.beanclass.history75" value="com.fbi.gui.combobox.FBComboBox" />
-      <entry key="chooser.beanclass.history76" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history77" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="chooser.beanclass.history78" value="com.fbi.plugins.shipexpress.ui.carton.CartonPanel" />
-      <entry key="chooser.beanclass.history79" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history80" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history81" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
-      <entry key="chooser.beanclass.history82" value="com.fbi.plugins.shipexpress.ui.carton.PredefinedCartonPanel" />
+      <entry key="chooser.beanclass.history73" value="com.fbi.plugins.shipexpress.ui.component.table.TablePanel" />
+      <entry key="chooser.beanclass.history74" value="com.fbi.gui.combobox.FBComboBox" />
+      <entry key="chooser.beanclass.history75" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history76" value="com.fbi.plugins.shipexpress.ui.carton.CartonPanel" />
+      <entry key="chooser.beanclass.history77" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history78" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history79" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history80" value="com.fbi.plugins.shipexpress.ui.carton.PredefinedCartonPanel" />
+      <entry key="chooser.beanclass.history81" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="chooser.beanclass.history82" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
       <node name="forms">
         <entry key="selection435401829" value="btnAdd" />
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
