@@ -107,6 +107,7 @@
       <entry key="chooser.beanclass.history79" value="javax.swing.JPanel" />
       <entry key="chooser.beanclass.history80" value="javax.swing.JButton" />
       <entry key="chooser.beanclass.history81" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history82" value="com.fbi.plugins.shipexpress.ui.carton.PredefinedCartonPanel" />
       <node name="forms">
         <entry key="selection435401829" value="btnAdd" />
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
@@ -160,6 +161,7 @@
         <entry key="selection-1091478718" value="tblItems" />
         <entry key="selection1188290866" value="cboCarrier" />
         <entry key="selection878992492" value="lblUspsCartonLimit" />
+        <entry key="selection-1903595172" value="txtTotalWeight" />
       </node>
     </node>
   </component>
