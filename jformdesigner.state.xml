@@ -103,11 +103,11 @@
       <entry key="chooser.beanclass.history75" value="com.fbi.plugins.shipexpress.ui.carton.CartonPanel" />
       <entry key="chooser.beanclass.history76" value="javax.swing.JPanel" />
       <entry key="chooser.beanclass.history77" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history78" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
-      <entry key="chooser.beanclass.history79" value="com.fbi.plugins.shipexpress.ui.carton.PredefinedCartonPanel" />
-      <entry key="chooser.beanclass.history80" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="chooser.beanclass.history81" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
-      <entry key="chooser.beanclass.history82" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history78" value="com.fbi.plugins.shipexpress.ui.carton.PredefinedCartonPanel" />
+      <entry key="chooser.beanclass.history79" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="chooser.beanclass.history80" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
+      <entry key="chooser.beanclass.history81" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history82" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
       <node name="forms">
         <entry key="selection435401829" value="btnAdd" />
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
@@ -128,7 +128,6 @@
         <entry key="selection1026105279" value="cboChannel" />
         <entry key="selection2046831304" value="pnlSettings" />
         <entry key="selection541911582" value="this" />
-        <entry key="selection713642546" value="fBButton1" />
         <entry key="selection1126019343" value="txtExpectedDeliveryDate" />
         <entry key="selection1670628396" value="tabs" />
         <entry key="selection2100267451" value="btnCancel" />
