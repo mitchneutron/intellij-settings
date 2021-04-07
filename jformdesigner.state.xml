@@ -2,7 +2,7 @@
   <component name="JFormDesigner">
     <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.darcula.DarculaLaf" />
     <entry key="updates.lastcheckedversion" value="7.0.3.0.337" />
-    <entry key="updates.lastchecked" value="1617203158999" />
+    <entry key="updates.lastchecked" value="1617754493805" />
     <entry key="updates.infoshown" value="true" />
     <node name="designer">
       <entry key="chooser.beanclass.history1" value="com.fbi.gui.misc.FBTabbedPane" />
