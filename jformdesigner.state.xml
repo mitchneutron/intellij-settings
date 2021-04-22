@@ -150,7 +150,6 @@
         <entry key="selection-214441549" value="txtCustomsItemValue" />
         <entry key="selection1478603171" value="tradingPartnerSettingsPanel" />
         <entry key="selection-1319196932" value="tablePanel" />
-        <entry key="selection118040593" value="pnlSettings" />
         <entry key="selection1019756697" value="pnlTabs" />
         <entry key="selection-920710208" value="cboCurrency" />
         <entry key="selection-1116179136" value="this" />
@@ -160,6 +159,7 @@
         <entry key="selection1188290866" value="cboCarrier" />
         <entry key="selection-463957296" value="billingInfoContent" />
         <entry key="selection435401829" value="table" />
+        <entry key="selection118040593" value="pnlSettings" />
       </node>
     </node>
   </component>
