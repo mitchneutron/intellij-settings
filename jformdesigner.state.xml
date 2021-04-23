@@ -106,10 +106,11 @@
       <entry key="chooser.beanclass.history78" value="javax.swing.JButton" />
       <entry key="chooser.beanclass.history79" value="com.fbi.gui.table.FBTable" />
       <entry key="chooser.beanclass.history80" value="com.fbi.gui.wizard.FBWizardStep" />
-      <entry key="chooser.beanclass.history81" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history82" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="chooser.beanclass.history81" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="chooser.beanclass.history82" value="javax.swing.JRadioButton" />
       <entry key="newform.superclass.history8" value="com.fbi.gui.wizard.FBWizardStep" />
-      <entry key="chooser.beanclass.history83" value="javax.swing.JRadioButton" />
+      <entry key="chooser.beanclass.history83" value="com.fbi.plugins.shipexpress.ui.miscpanel.batch.BatchSettingsPanel" />
+      <entry key="chooser.beanclass.history84" value="com.fbi.gui.textfield.FBLabel" />
       <node name="forms">
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
         <entry key="selection195188610" value="pnlOrderStatusSettings,pnlLocationGroupSettings,pnlPaymentSettings,pnlCarrierSettings,pnlTaxSettings,pnlOrderSettings,pnlSchedule,pnlCustomerSettings,pnlOrderItemSettings" />
@@ -162,6 +163,7 @@
         <entry key="selection-463957296" value="billingInfoContent" />
         <entry key="selection435401829" value="table" />
         <entry key="selection118040593" value="pnlSettings" />
+        <entry key="selection1832012641" value="rdoShipmentCarrier" />
       </node>
     </node>
   </component>
