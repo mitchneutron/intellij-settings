@@ -101,14 +101,15 @@
       <entry key="chooser.beanclass.history73" value="com.fbi.plugins.shipexpress.ui.carton.CartonPanel" />
       <entry key="chooser.beanclass.history74" value="javax.swing.JPanel" />
       <entry key="chooser.beanclass.history75" value="com.fbi.plugins.shipexpress.ui.carton.PredefinedCartonPanel" />
-      <entry key="chooser.beanclass.history76" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="chooser.beanclass.history77" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
-      <entry key="chooser.beanclass.history78" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history79" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
-      <entry key="chooser.beanclass.history80" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history81" value="com.fbi.gui.table.FBTable" />
-      <entry key="chooser.beanclass.history82" value="com.fbi.gui.wizard.FBWizardStep" />
+      <entry key="chooser.beanclass.history76" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
+      <entry key="chooser.beanclass.history77" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history78" value="javax.swing.JButton" />
+      <entry key="chooser.beanclass.history79" value="com.fbi.gui.table.FBTable" />
+      <entry key="chooser.beanclass.history80" value="com.fbi.gui.wizard.FBWizardStep" />
+      <entry key="chooser.beanclass.history81" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history82" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
       <entry key="newform.superclass.history8" value="com.fbi.gui.wizard.FBWizardStep" />
+      <entry key="chooser.beanclass.history83" value="javax.swing.JRadioButton" />
       <node name="forms">
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
         <entry key="selection195188610" value="pnlOrderStatusSettings,pnlLocationGroupSettings,pnlPaymentSettings,pnlCarrierSettings,pnlTaxSettings,pnlOrderSettings,pnlSchedule,pnlCustomerSettings,pnlOrderItemSettings" />
@@ -161,6 +162,7 @@
         <entry key="selection-463957296" value="billingInfoContent" />
         <entry key="selection435401829" value="table" />
         <entry key="selection118040593" value="pnlSettings" />
+        <entry key="selection958019095" value="radioButton1" />
       </node>
     </node>
   </component>
