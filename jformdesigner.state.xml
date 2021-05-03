@@ -156,7 +156,6 @@
         <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection1019756697" value="pnlTabs" />
         <entry key="selection-1116179136" value="this" />
-        <entry key="selection1951527494" value="pnlValidation,this" />
         <entry key="selection-1017141893" value="btnSubmit" />
         <entry key="selection-1091478718" value="tblItems" />
         <entry key="selection1188290866" value="cboCarrier" />
@@ -166,6 +165,7 @@
         <entry key="selection1832012641" value="rdoShipmentCarrier" />
         <entry key="selection-920710208" value="cboCurrency" />
         <entry key="selection-1057271196" value="btnInsurance,this" />
+        <entry key="selection1951527494" value="pnlValidation,this" />
       </node>
     </node>
   </component>
