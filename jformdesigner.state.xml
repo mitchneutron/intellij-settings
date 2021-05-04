@@ -115,6 +115,8 @@
       <entry key="chooser.beanclass.history86" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
       <entry key="chooser.beanclass.history87" value="javax.swing.JComboBox" />
       <entry key="chooser.beanclass.history88" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="chooser.beanclass.history89" value="com.fbi.plugins.shipexpress.ui.shipmentselection.SelectionPanel" />
+      <entry key="chooser.beanclass.history90" value="com.fbi.plugins.shipexpress.ui.shipmentselection.ShipmentSelectionPanel" />
       <node name="forms">
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
         <entry key="selection195188610" value="pnlOrderStatusSettings,pnlLocationGroupSettings,pnlPaymentSettings,pnlCarrierSettings,pnlTaxSettings,pnlOrderSettings,pnlSchedule,pnlCustomerSettings,pnlOrderItemSettings" />
@@ -170,7 +172,6 @@
         <entry key="selection-1057271196" value="btnInsurance,this" />
         <entry key="selection1951527494" value="pnlValidation,this" />
         <entry key="selection-1427881366" value="cboTimeOfDay" />
-        <entry key="selection-1413967476" value="pnlScroll" />
       </node>
     </node>
   </component>
