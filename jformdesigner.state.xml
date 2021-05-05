@@ -158,7 +158,6 @@
         <entry key="selection-292895971" value="this" />
         <entry key="selection-214441549" value="txtCustomsItemValue" />
         <entry key="selection1478603171" value="tradingPartnerSettingsPanel" />
-        <entry key="selection-1319196932" value="tablePanel" />
         <entry key="selection1019756697" value="pnlTabs" />
         <entry key="selection-1116179136" value="this" />
         <entry key="selection-1017141893" value="btnSubmit" />
@@ -173,6 +172,7 @@
         <entry key="selection1951527494" value="pnlValidation,this" />
         <entry key="selection-1427881366" value="cboTimeOfDay" />
         <entry key="selection-1413967476" value="btnSelectAll" />
+        <entry key="selection-1319196932" value="tablePanel" />
       </node>
     </node>
   </component>
