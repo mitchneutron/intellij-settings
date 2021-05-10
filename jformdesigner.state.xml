@@ -117,8 +117,8 @@
       <entry key="chooser.beanclass.history89" value="com.fbi.gui.combobox.FBComboBox" />
       <entry key="chooser.beanclass.history90" value="com.fbi.gui.textfield.FBTextField" />
       <entry key="properties.expanded.bindings" value="true" />
-      <entry key="chooser.beanclass.history91" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history92" value="com.fbi.gui.combobox.FBConstComboBox" />
+      <entry key="chooser.beanclass.history91" value="com.fbi.gui.combobox.FBConstComboBox" />
+      <entry key="chooser.beanclass.history92" value="com.fbi.gui.textfield.FBLabel" />
       <node name="forms">
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
         <entry key="selection195188610" value="pnlOrderStatusSettings,pnlLocationGroupSettings,pnlPaymentSettings,pnlCarrierSettings,pnlTaxSettings,pnlOrderSettings,pnlSchedule,pnlCustomerSettings,pnlOrderItemSettings" />
