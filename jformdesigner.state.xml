@@ -174,7 +174,6 @@
         <entry key="selection1951527494" value="pnlValidation,this" />
         <entry key="selection-1413967476" value="btnSelectAll" />
         <entry key="selection-1319196932" value="tablePanel" />
-        <entry key="selection878992492" value="cartonPanel" />
         <entry key="selection-1903595172" value="pnlCartonTable" />
         <entry key="selection-983275584" value="cboSo2" />
         <entry key="selection-1427881366" value="cboTimeOfDay" />
@@ -182,6 +181,7 @@
         <entry key="selection-1191121497" value="tblCurrencyMapper" />
         <entry key="selection159119836" value="table" />
         <entry key="selection-1252818857" value="lblTaxType,txtTaxIdentificationNumber,cboTaxType,lblTaxIdentificationNumber" />
+        <entry key="selection878992492" value="cartonPanel" />
       </node>
     </node>
   </component>
