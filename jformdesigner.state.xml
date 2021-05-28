@@ -95,30 +95,30 @@
       <entry key="chooser.beanclass.history68" value="com.fbi.plugins.shipexpress.ui.component.table.model.DialogContentPanel" />
       <entry key="chooser.beanclass.history69" value="com.fbi.gui.table.FBTable" />
       <entry key="chooser.beanclass.history70" value="com.fbi.gui.wizard.FBWizardStep" />
-      <entry key="chooser.beanclass.history71" value="javax.swing.JRadioButton" />
-      <entry key="chooser.beanclass.history72" value="com.fbi.plugins.shipexpress.settings.BatchShippingSettings" />
-      <entry key="chooser.beanclass.history73" value="com.fbi.plugins.shipexpress.ui.miscpanel.batch.BatchSettingsPanel" />
-      <entry key="chooser.beanclass.history74" value="com.fbi.gui.combobox.FBDateComboBox" />
-      <entry key="chooser.beanclass.history75" value="org.firebirdsql.jdbc.field.FBTimeField" />
-      <entry key="chooser.beanclass.history76" value="com.fbi.gui.combobox.FBTimeSpanComboBox" />
-      <entry key="chooser.beanclass.history77" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
-      <entry key="chooser.beanclass.history78" value="com.fbi.plugins.shipexpress.ui.shipmentselection.SelectionPanel" />
-      <entry key="chooser.beanclass.history79" value="com.fbi.plugins.shipexpress.ui.shipmentselection.ShipmentSelectionPanel" />
-      <entry key="chooser.beanclass.history80" value="javax.swing.JPanel" />
-      <entry key="chooser.beanclass.history81" value="javax.swing.JScrollPane" />
-      <entry key="chooser.beanclass.history82" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history71" value="com.fbi.plugins.shipexpress.settings.BatchShippingSettings" />
+      <entry key="chooser.beanclass.history72" value="com.fbi.plugins.shipexpress.ui.miscpanel.batch.BatchSettingsPanel" />
+      <entry key="chooser.beanclass.history73" value="com.fbi.gui.combobox.FBDateComboBox" />
+      <entry key="chooser.beanclass.history74" value="org.firebirdsql.jdbc.field.FBTimeField" />
+      <entry key="chooser.beanclass.history75" value="com.fbi.gui.combobox.FBTimeSpanComboBox" />
+      <entry key="chooser.beanclass.history76" value="com.fbi.plugins.shipexpress.ui.component.PluginPanel" />
+      <entry key="chooser.beanclass.history77" value="com.fbi.plugins.shipexpress.ui.shipmentselection.SelectionPanel" />
+      <entry key="chooser.beanclass.history78" value="com.fbi.plugins.shipexpress.ui.shipmentselection.ShipmentSelectionPanel" />
+      <entry key="chooser.beanclass.history79" value="javax.swing.JPanel" />
+      <entry key="chooser.beanclass.history80" value="javax.swing.JScrollPane" />
+      <entry key="chooser.beanclass.history81" value="com.fbi.plugins.shipexpress.ui.component.PluginDialog" />
+      <entry key="chooser.beanclass.history82" value="javax.swing.JButton" />
       <entry key="newform.superclass.history8" value="com.fbi.gui.wizard.FBWizardStep" />
-      <entry key="chooser.beanclass.history83" value="javax.swing.JButton" />
-      <entry key="chooser.beanclass.history84" value="javax.swing.JTextArea" />
-      <entry key="chooser.beanclass.history85" value="com.fbi.gui.textfield.FBTextArea" />
-      <entry key="chooser.beanclass.history86" value="com.fbi.gui.textfield.FBTextFieldMoney" />
-      <entry key="chooser.beanclass.history87" value="com.fbi.gui.combobox.FBComboBox" />
-      <entry key="chooser.beanclass.history88" value="com.fbi.gui.textfield.FBTextField" />
-      <entry key="chooser.beanclass.history89" value="com.fbi.gui.textfield.FBLabel" />
-      <entry key="chooser.beanclass.history90" value="com.fbi.gui.textfield.FBTextFieldInt" />
+      <entry key="chooser.beanclass.history83" value="javax.swing.JTextArea" />
+      <entry key="chooser.beanclass.history84" value="com.fbi.gui.textfield.FBTextArea" />
+      <entry key="chooser.beanclass.history85" value="com.fbi.gui.textfield.FBTextFieldMoney" />
+      <entry key="chooser.beanclass.history86" value="com.fbi.gui.combobox.FBComboBox" />
+      <entry key="chooser.beanclass.history87" value="com.fbi.gui.textfield.FBTextField" />
+      <entry key="chooser.beanclass.history88" value="com.fbi.gui.textfield.FBLabel" />
+      <entry key="chooser.beanclass.history89" value="com.fbi.gui.textfield.FBTextFieldInt" />
+      <entry key="chooser.beanclass.history90" value="com.fbi.gui.combobox.FBConstComboBox" />
       <entry key="properties.expanded.bindings" value="true" />
-      <entry key="chooser.beanclass.history91" value="com.fbi.gui.combobox.FBConstComboBox" />
-      <entry key="chooser.beanclass.history92" value="javax.swing.JComboBox" />
+      <entry key="chooser.beanclass.history91" value="javax.swing.JComboBox" />
+      <entry key="chooser.beanclass.history92" value="javax.swing.JRadioButton" />
       <entry key="properties.expanded.category.expert" value="true" />
       <node name="forms">
         <entry key="selection-1246874866" value="tblOrderStatusMapper" />
@@ -169,7 +169,6 @@
         <entry key="selection435401829" value="table" />
         <entry key="selection118040593" value="pnlSettings" />
         <entry key="selection1832012641" value="rdoShipmentCarrier" />
-        <entry key="selection-920710208" value="cboCurrency" />
         <entry key="selection-1057271196" value="btnInsurance,this" />
         <entry key="selection1951527494" value="pnlValidation,this" />
         <entry key="selection-1413967476" value="btnSelectAll" />
@@ -182,6 +181,8 @@
         <entry key="selection159119836" value="table" />
         <entry key="selection878992492" value="cartonPanel" />
         <entry key="selection-1252818857" value="lblTaxType,txtTaxIdentificationNumber,cboTaxType,lblTaxIdentificationNumber" />
+        <entry key="selection-920710208" value="cboCurrency" />
+        <entry key="selection60257792" value="chkUseDefaultInsuranceAmount" />
       </node>
     </node>
   </component>
