@@ -182,7 +182,7 @@
         <entry key="selection878992492" value="cartonPanel" />
         <entry key="selection-1252818857" value="lblTaxType,txtTaxIdentificationNumber,cboTaxType,lblTaxIdentificationNumber" />
         <entry key="selection-920710208" value="cboCurrency" />
-        <entry key="selection60257792" value="chkUseDefaultInsuranceAmount" />
+        <entry key="selection60257792" value="rdoPriceInsurance" />
       </node>
     </node>
   </component>
