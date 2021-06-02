@@ -100,4 +100,10 @@
   <template name="flow" value="// @flow" description="Inserts @flow annotation" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="todo" value="//TODO $END$" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
